@@ -1,0 +1,1067 @@
+ORF_ID	ORF_length	start	end	Contig_Name	Contig_length	strand	ec	taxonomy	product
+NapTol_Functional_sc_29_0	287	102	389	NapTol_Functional_sc_29	7708	+		Clostridia (186801)	CopG family transcripitonal regulator
+NapTol_Functional_sc_29_1	1385	361	1746	NapTol_Functional_sc_29	7708	+		Bacteria (2)	Thiazole biosynthesis protein ThiH
+NapTol_Functional_sc_29_2	1037	1743	2780	NapTol_Functional_sc_29	7708	+		Bacteria (2)	Biotin synthase related enzymes
+NapTol_Functional_sc_29_3	1349	2770	4119	NapTol_Functional_sc_29	7708	+	4.3.1.1	Spirochaetaceae (137)	Aspartate ammonia-lyase (EC 4.3.1.1)
+NapTol_Functional_sc_29_4	1271	4129	5400	NapTol_Functional_sc_29	7708	+		Bacteria (2)	Putative GTP-binding protien TM0445
+NapTol_Functional_sc_29_5	1154	5554	6708	NapTol_Functional_sc_29	7708	+		Monera	Ferredoxin oxidoreductase
+NapTol_Functional_sc_29_6	410	6705	7115	NapTol_Functional_sc_29	7708	+		Bacteria (2)	NIL domain-containing protein
+NapTol_Functional_sc_29_7	314	7119	7433	NapTol_Functional_sc_29	7708	+		root (1)	hypothetical protein
+NapTol_Functional_sc_28_0	2012	22	2034	NapTol_Functional_sc_28	31012	-	3.6.3.3	Bacteria (2)	Lead, cadmium, zinc mercury transporting ATPase (EC 3.6.3.3) 3.6.3.5) Copper-translocating P-type 3.6.3.4)
+NapTol_Functional_sc_28_1	1559	2129	3688	NapTol_Functional_sc_28	31012	-		root (1)	hypothetical protein
+NapTol_Functional_sc_28_2	836	3778	4614	NapTol_Functional_sc_28	31012	-		Bacteria (2)	high-affinity iron transporter
+NapTol_Functional_sc_28_3	2465	4821	7286	NapTol_Functional_sc_28	31012	+	3.6.3.3	Bacteria (2)	Lead, cadmium, zinc mercury transporting ATPase (EC 3.6.3.3) 3.6.3.5) Copper-translocating P-type 3.6.3.4)
+NapTol_Functional_sc_28_4	1028	7370	8398	NapTol_Functional_sc_28	31012	-		root (1)	hypothetical protein
+NapTol_Functional_sc_28_5	224	8395	8619	NapTol_Functional_sc_28	31012	-		root (1)	hypothetical protein
+NapTol_Functional_sc_28_6	650	8672	9322	NapTol_Functional_sc_28	31012	-		root (1)	hypothetical protein
+NapTol_Functional_sc_28_7	599	9537	10136	NapTol_Functional_sc_28	31012	+		root (1)	hypothetical protein
+NapTol_Functional_sc_28_8	272	10200	10472	NapTol_Functional_sc_28	31012	-		root (1)	hypothetical protein
+NapTol_Functional_sc_28_9	1520	10593	12113	NapTol_Functional_sc_28	31012	-	1.12.7.2	Bacteria (2)	Periplasmic hydrogenase (EC 1.12.7.2)
+NapTol_Functional_sc_28_10	275	12106	12381	NapTol_Functional_sc_28	31012	-		root (1)	hypothetical protein
+NapTol_Functional_sc_28_11	1127	12849	13976	NapTol_Functional_sc_28	31012	+		Bacteria (2)	Prokaryotic ATPase
+NapTol_Functional_sc_28_12	1256	14121	15377	NapTol_Functional_sc_28	31012	-		Desulfomonile tiedjei (2358)	Fe-S oxidoreductase
+NapTol_Functional_sc_28_13	773	15381	16154	NapTol_Functional_sc_28	31012	-		root (1)	hypothetical protein
+NapTol_Functional_sc_28_14	239	16164	16403	NapTol_Functional_sc_28	31012	-		Bacillales (1385)	SirA family protein
+NapTol_Functional_sc_28_15	536	16436	16972	NapTol_Functional_sc_28	31012	-	1.8.1.14	Firmicutes (1239)	CoA-disulfide reductase (EC 1.8.1.14) / Disulfide bond regulator
+NapTol_Functional_sc_28_16	302	17026	17328	NapTol_Functional_sc_28	31012	-		Anaeromyxobacter sp. Fw109-5 (404589)	transcriptional regulator, ArsR family
+NapTol_Functional_sc_28_17	2051	17400	19451	NapTol_Functional_sc_28	31012	+	1.5.1.20	Bacteria (2)	5,10-methylenetetrahydrofolate reductase (EC 1.5.1.20)
+NapTol_Functional_sc_28_18	3740	19448	23188	NapTol_Functional_sc_28	31012	+	2.1.1.13	Proteobacteria (1224)	5-methyltetrahydrofolate--homocysteine methyltransferase (EC 2.1.1.13)
+NapTol_Functional_sc_28_19	800	23115	23915	NapTol_Functional_sc_28	31012	-		root (1)	hypothetical protein
+NapTol_Functional_sc_28_20	410	23919	24329	NapTol_Functional_sc_28	31012	-		Bacteria (2)	NIL domain-containing protein
+NapTol_Functional_sc_28_21	1154	24326	25480	NapTol_Functional_sc_28	31012	-		Monera	Ferredoxin oxidoreductase
+NapTol_Functional_sc_28_22	1271	25634	26905	NapTol_Functional_sc_28	31012	-		Bacteria (2)	Putative GTP-binding protien TM0445
+NapTol_Functional_sc_28_23	1349	26915	28264	NapTol_Functional_sc_28	31012	-	4.3.1.1	Spirochaetaceae (137)	Aspartate ammonia-lyase (EC 4.3.1.1)
+NapTol_Functional_sc_28_24	1037	28254	29291	NapTol_Functional_sc_28	31012	-		Firmicutes (1239)	Biotin synthase related enzymes
+NapTol_Functional_sc_28_25	1385	29288	30673	NapTol_Functional_sc_28	31012	-		Bacteria (2)	Thiazole biosynthesis protein ThiH
+NapTol_Functional_sc_28_26	287	30645	30932	NapTol_Functional_sc_28	31012	-		Clostridia (186801)	CopG family transcripitonal regulator
+NapTol_Functional_sc_27_0	128	1	129	NapTol_Functional_sc_27	8029	+		root (1)	hypothetical protein
+NapTol_Functional_sc_27_1	689	126	815	NapTol_Functional_sc_27	8029	+		Bacteria (2)	Putative preQ0 transporter
+NapTol_Functional_sc_27_2	401	815	1216	NapTol_Functional_sc_27	8029	+	1.7.1.13	Bacteria (2)	NADPH dependent preQ0 reductase (EC 1.7.1.13)
+NapTol_Functional_sc_27_3	1106	1501	2607	NapTol_Functional_sc_27	8029	+	3.5.4.26	Clostridia (186801)	Diaminohydroxyphosphoribosylaminopyrimidine deaminase (EC 3.5.4.26) / 5-amino-6-(5-phosphoribosylamino)uracil reductase 1.1.1.193)
+NapTol_Functional_sc_27_4	668	2592	3260	NapTol_Functional_sc_27	8029	+	2.5.1.9	Bacteria (2)	Riboflavin synthase eubacterial/eukaryotic (EC 2.5.1.9) [Haemophilus
+NapTol_Functional_sc_27_5	1241	3260	4501	NapTol_Functional_sc_27	8029	+	4.1.99.12	Firmicutes (1239)	3,4-dihydroxy-2-butanone 4-phosphate synthase (EC 4.1.99.12) / GTP cyclohydrolase II 3.5.4.25)
+NapTol_Functional_sc_27_6	467	4498	4965	NapTol_Functional_sc_27	8029	+	2.5.1.78	Bacteria (2)	6,7-dimethyl-8-ribityllumazine synthase (EC 2.5.1.78)
+NapTol_Functional_sc_27_7	1298	5287	6585	NapTol_Functional_sc_27	8029	+	4.1.99.17	Bacteria (2)	Hydroxymethylpyrimidine phosphate synthase ThiC (EC 4.1.99.17)
+NapTol_Functional_sc_27_8	818	6575	7393	NapTol_Functional_sc_27	8029	+	2.7.4.7	Bacteria (2)	Hydroxymethylpyrimidine phosphate kinase ThiD (EC 2.7.4.7)
+NapTol_Functional_sc_27_9	638	7390	8028	NapTol_Functional_sc_27	8029	+	2.7.1.50	Monera	Hydroxyethylthiazole kinase (EC 2.7.1.50)
+NapTol_Functional_sc_26_0	131	227	358	NapTol_Functional_sc_26	34269	-		root (1)	hypothetical protein
+NapTol_Functional_sc_26_1	407	364	771	NapTol_Functional_sc_26	34269	-	4.99.1.3	Methanomicrobia (224756)	Sirohydrochlorin cobaltochelatase (EC 4.99.1.3)
+NapTol_Functional_sc_26_2	215	990	1205	NapTol_Functional_sc_26	34269	+		Methanoculleus marisnigri (2198)	Conserved protein
+NapTol_Functional_sc_26_3	1064	1277	2341	NapTol_Functional_sc_26	34269	+		Methanomicrobiales (2191)	tRNA dihydrouridine synthase B like
+NapTol_Functional_sc_26_4	782	2352	3134	NapTol_Functional_sc_26	34269	+		Methanomicrobiales (2191)	Triphosphoribosyl-dephospho-CoA synthetase
+NapTol_Functional_sc_26_5	569	3122	3691	NapTol_Functional_sc_26	34269	+		Methanomicrobiales (2191)	DUF447 family protein
+NapTol_Functional_sc_26_6	440	3907	4347	NapTol_Functional_sc_26	34269	+		Methanoculleus (45989)	beta-Ig-H3/fasciclin
+NapTol_Functional_sc_26_7	434	4553	4987	NapTol_Functional_sc_26	34269	+		Methanoculleus marisnigri (2198)	Secreted surface protein containing fasciclin-like repeats
+NapTol_Functional_sc_26_8	425	5068	5493	NapTol_Functional_sc_26	34269	+		Methanoculleus (45989)	Secreted surface protein containing fasciclin-like repeats
+NapTol_Functional_sc_26_9	1433	5567	7000	NapTol_Functional_sc_26	34269	-		Methanomicrobia (224756)	transposase
+NapTol_Functional_sc_26_10	203	7216	7419	NapTol_Functional_sc_26	34269	+		root (1)	hypothetical protein
+NapTol_Functional_sc_26_11	1187	7356	8543	NapTol_Functional_sc_26	34269	-		Methanomicrobia (224756)	Transposase
+NapTol_Functional_sc_26_12	1700	9024	10724	NapTol_Functional_sc_26	34269	+		root (1)	hypothetical protein
+NapTol_Functional_sc_26_13	1334	10938	12272	NapTol_Functional_sc_26	34269	+		root (1)	hypothetical protein
+NapTol_Functional_sc_26_14	677	12810	13487	NapTol_Functional_sc_26	34269	-	4.1.99.12	Euryarchaeota (28890)	3,4-dihydroxy-2-butanone 4-phosphate synthase (EC 4.1.99.12)
+NapTol_Functional_sc_26_15	668	13480	14148	NapTol_Functional_sc_26	34269	-	2.7.1.161	Methanomicrobiales (2191)	DNA-binding HTH domain riboflavin kinase / CTP-dependent archaeal (EC 2.7.1.161)
+NapTol_Functional_sc_26_16	710	14270	14980	NapTol_Functional_sc_26	34269	+		Euryarchaeota (28890)	XRE family transcriptional regulator
+NapTol_Functional_sc_26_17	1052	14974	16026	NapTol_Functional_sc_26	34269	+	2.3.3.10	Euryarchaeota (28890)	Hydroxymethylglutaryl-CoA synthase (EC 2.3.3.10)
+NapTol_Functional_sc_26_18	1160	16023	17183	NapTol_Functional_sc_26	34269	+	2.3.1.16	Euryarchaeota (28890)	3-ketoacyl-CoA thiolase (EC 2.3.1.16)
+NapTol_Functional_sc_26_19	392	17186	17578	NapTol_Functional_sc_26	34269	+		Euryarchaeota (28890)	conserved protein associated acetyl-CoA C-acyltransferase
+NapTol_Functional_sc_26_20	932	17724	18656	NapTol_Functional_sc_26	34269	-	2.1.1.31	Methanomicrobiales (2191)	tRNA (Guanine37-N1) -methyltransferase (EC 2.1.1.31)
+NapTol_Functional_sc_26_21	1208	18692	19900	NapTol_Functional_sc_26	34269	+	1.1.1.34	Euryarchaeota (28890)	Hydroxymethylglutaryl-CoA reductase (EC 1.1.1.34)
+NapTol_Functional_sc_26_22	464	19959	20423	NapTol_Functional_sc_26	34269	-		Methanomicrobiales (2191)	Ribosomal-protein-S18p-alanine acetyltransferase (EC 2.3.1.-)
+NapTol_Functional_sc_26_23	1265	20509	21774	NapTol_Functional_sc_26	34269	+		Methanomicrobiales (2191)	hypothetical protein
+NapTol_Functional_sc_26_24	872	21823	22695	NapTol_Functional_sc_26	34269	+	2.4.2.17	Monera	ATP phosphoribosyltransferase (EC 2.4.2.17)
+NapTol_Functional_sc_26_25	656	22709	23365	NapTol_Functional_sc_26	34269	-		Monera	Formylmethanofuran dehydrogenase subunit E
+NapTol_Functional_sc_26_26	563	23599	24162	NapTol_Functional_sc_26	34269	+		Methanoculleus (45989)	hypothetical protein
+NapTol_Functional_sc_26_27	1028	24186	25214	NapTol_Functional_sc_26	34269	+		Methanoculleus (45989)	hypothetical protein
+NapTol_Functional_sc_26_28	515	25208	25723	NapTol_Functional_sc_26	34269	+		Methanoculleus (45989)	hypothetical protein
+NapTol_Functional_sc_26_29	356	25720	26076	NapTol_Functional_sc_26	34269	+		Methanomicrobiales (2191)	hypothetical protein
+NapTol_Functional_sc_26_30	461	26057	26518	NapTol_Functional_sc_26	34269	+		Methanomicrobiales (2191)	hypothetical protein
+NapTol_Functional_sc_26_31	785	26515	27300	NapTol_Functional_sc_26	34269	+		Methanomicrobiaceae (2194)	unknown
+NapTol_Functional_sc_26_32	260	27377	27637	NapTol_Functional_sc_26	34269	-		Archaea (2157)	Translation initiation factor 1A
+NapTol_Functional_sc_26_33	665	27934	28599	NapTol_Functional_sc_26	34269	+		Methanomicrobiaceae (2194)	membrane protein
+NapTol_Functional_sc_26_34	947	28658	29605	NapTol_Functional_sc_26	34269	+		Methanomicrobiaceae (2194)	Phosphoesterase (EC 3.1.-.-)
+NapTol_Functional_sc_26_35	605	29602	30207	NapTol_Functional_sc_26	34269	+		root (1)	hypothetical protein
+NapTol_Functional_sc_26_36	1175	30217	31392	NapTol_Functional_sc_26	34269	+		Monera	Mobile element protein
+NapTol_Functional_sc_26_37	500	31470	31970	NapTol_Functional_sc_26	34269	+		root (1)	hypothetical protein
+NapTol_Functional_sc_26_38	830	31996	32826	NapTol_Functional_sc_26	34269	-		Methanoculleus (45989)	Uncharacterized protein
+NapTol_Functional_sc_26_39	944	33082	34026	NapTol_Functional_sc_26	34269	+	1.1.1.169	Methanomicrobiaceae (2194)	2-dehydropantoate 2-reductase (EC 1.1.1.169)
+NapTol_Functional_sc_26_40	179	34031	34210	NapTol_Functional_sc_26	34269	-		root (1)	hypothetical protein
+NapTol_Functional_sc_25_0	674	303	977	NapTol_Functional_sc_25	35962	+		Firmicutes (1239)	Phosphate regulon transcriptional regulatory protein PhoB (SphR)
+NapTol_Functional_sc_25_1	1400	970	2370	NapTol_Functional_sc_25	35962	+		root (1)	hypothetical protein
+NapTol_Functional_sc_25_2	1190	2367	3557	NapTol_Functional_sc_25	35962	-		Peptococcaceae (186807)	Cell division topological determinant MinJ
+NapTol_Functional_sc_25_3	1175	3625	4800	NapTol_Functional_sc_25	35962	-	3.4.21.102	Peptococcaceae (186807)	Carboxyl-terminal protease (EC 3.4.21.102)
+NapTol_Functional_sc_25_4	1145	4976	6121	NapTol_Functional_sc_25	35962	-		Desulfotomaculum (1562)	Membrane proteins related to metalloendopeptidases
+NapTol_Functional_sc_25_5	884	6143	7027	NapTol_Functional_sc_25	35962	-		Firmicutes (1239)	Cell division protein FtsX
+NapTol_Functional_sc_25_6	683	7017	7700	NapTol_Functional_sc_25	35962	-		Clostridia (186801)	Cell division transporter, ATP-binding protein FtsE (TC 3.A.5.1.1)
+NapTol_Functional_sc_25_7	398	7799	8197	NapTol_Functional_sc_25	35962	-		Firmicutes (1239)	phenylacetic acid degradation-like protein
+NapTol_Functional_sc_25_8	2027	8272	10299	NapTol_Functional_sc_25	35962	-	3.6.1.1	Monera	Pyrophosphate-energized proton pump (EC 3.6.1.1)
+NapTol_Functional_sc_25_9	227	10476	10703	NapTol_Functional_sc_25	35962	-		Firmicutes (1239)	Preprotein translocase subunit SecG (TC 3.A.5.1.1)
+NapTol_Functional_sc_25_10	356	10809	11165	NapTol_Functional_sc_25	35962	-		Firmicutes (1239)	Ribosomal silencing factor RsfA (former Iojap)
+NapTol_Functional_sc_25_11	605	11628	12233	NapTol_Functional_sc_25	35962	-	2.7.7.18	Clostridia (186801)	Nicotinate-nucleotide adenylyltransferase (EC 2.7.7.18) ## bacterial NadD family
+NapTol_Functional_sc_25_12	1118	12258	13376	NapTol_Functional_sc_25	35962	-	2.7.2.11	Bacteria (2)	Glutamate 5-kinase (EC 2.7.2.11) / RNA-binding C-terminal domain PUA
+NapTol_Functional_sc_25_13	1265	13453	14718	NapTol_Functional_sc_25	35962	-		Firmicutes (1239)	GTP-binding protein Obg
+NapTol_Functional_sc_25_14	560	14746	15306	NapTol_Functional_sc_25	35962	-		root (1)	hypothetical protein
+NapTol_Functional_sc_25_15	263	15411	15674	NapTol_Functional_sc_25	35962	-		Clostridiales (186802)	LSU ribosomal protein L27p
+NapTol_Functional_sc_25_16	317	15695	16012	NapTol_Functional_sc_25	35962	-		Firmicutes (1239)	LSU ribosomal protein L21p
+NapTol_Functional_sc_25_17	1559	16473	18032	NapTol_Functional_sc_25	35962	+	6.4.1.2	Monera	Acetyl-coenzyme A carboxyl transferase alpha chain (EC 6.4.1.2) / beta 6.4.1.2) Propionyl-CoA carboxylase 6.4.1.3)
+NapTol_Functional_sc_25_18	455	18103	18558	NapTol_Functional_sc_25	35962	-		Clostridiales (186802)	Archaeal/vacuolar-type H+-ATPase subunit H
+NapTol_Functional_sc_25_19	575	18559	19134	NapTol_Functional_sc_25	35962	-		Peptococcaceae (186807)	Ribosomal RNA small subunit methyltransferase D (EC 2.1.1.-)
+NapTol_Functional_sc_25_20	962	19286	20248	NapTol_Functional_sc_25	35962	+	3.4.24.78	Clostridia (186801)	Endopeptidase spore protease Gpr (EC 3.4.24.78)
+NapTol_Functional_sc_25_21	254	20426	20680	NapTol_Functional_sc_25	35962	-		Clostridia (186801)	Small acid-soluble spore protein, beta-type SASP
+NapTol_Functional_sc_25_22	200	20806	21006	NapTol_Functional_sc_25	35962	-		root (1)	hypothetical protein
+NapTol_Functional_sc_25_23	1040	21324	22364	NapTol_Functional_sc_25	35962	-	2.4.2.11	Bacteria (2)	Nicotinate phosphoribosyltransferase (EC 2.4.2.11)
+NapTol_Functional_sc_25_24	479	22368	22847	NapTol_Functional_sc_25	35962	-	2.5.1.78	Firmicutes (1239)	6,7-dimethyl-8-ribityllumazine synthase (EC 2.5.1.78)
+NapTol_Functional_sc_25_25	1211	22863	24074	NapTol_Functional_sc_25	35962	-	4.1.99.12	Firmicutes (1239)	3,4-dihydroxy-2-butanone 4-phosphate synthase (EC 4.1.99.12) / GTP cyclohydrolase II 3.5.4.25)
+NapTol_Functional_sc_25_26	611	24114	24725	NapTol_Functional_sc_25	35962	-	2.5.1.9	Bacteria (2)	Riboflavin synthase eubacterial/eukaryotic (EC 2.5.1.9)
+NapTol_Functional_sc_25_27	1085	24793	25878	NapTol_Functional_sc_25	35962	-	3.5.4.26	Clostridia (186801)	Diaminohydroxyphosphoribosylaminopyrimidine deaminase (EC 3.5.4.26) / 5-amino-6-(5-phosphoribosylamino)uracil reductase 1.1.1.193)
+NapTol_Functional_sc_25_28	653	26170	26823	NapTol_Functional_sc_25	35962	-		Clostridia (186801)	GntR family transcriptional regulator
+NapTol_Functional_sc_25_29	1292	27023	28315	NapTol_Functional_sc_25	35962	-	2.3.1.16	Bacteria (2)	3-ketoacyl-CoA thiolase (EC 2.3.1.16) @ Acetyl-CoA acetyltransferase 2.3.1.9)
+NapTol_Functional_sc_25_30	548	28498	29046	NapTol_Functional_sc_25	35962	+		root (1)	hypothetical protein
+NapTol_Functional_sc_25_31	440	29131	29571	NapTol_Functional_sc_25	35962	+		Desulfotomaculum kuznetsovii (58135)	MaoC domain-containing protein dehydratase
+NapTol_Functional_sc_25_32	440	29600	30040	NapTol_Functional_sc_25	35962	+		root (1)	hypothetical protein
+NapTol_Functional_sc_25_33	1079	30044	31123	NapTol_Functional_sc_25	35962	-		Firmicutes (1239)	HAMP domain/GAF domain/HD domain protein
+NapTol_Functional_sc_25_34	395	31642	32037	NapTol_Functional_sc_25	35962	-	5.1.99.1	Deltaproteobacteria (28221)	Methylmalonyl-CoA epimerase (EC 5.1.99.1)
+NapTol_Functional_sc_25_35	233	32238	32471	NapTol_Functional_sc_25	35962	-		Dehalobacter (56112)	hypothetical protein
+NapTol_Functional_sc_25_36	401	32526	32927	NapTol_Functional_sc_25	35962	-		root (1)	hypothetical protein
+NapTol_Functional_sc_25_37	179	32991	33170	NapTol_Functional_sc_25	35962	+		root (1)	hypothetical protein
+NapTol_Functional_sc_25_38	377	33135	33512	NapTol_Functional_sc_25	35962	-		root (1)	hypothetical protein
+NapTol_Functional_sc_25_39	650	34278	34928	NapTol_Functional_sc_25	35962	-	2.7.7.49	Bacteria (2)	Retron-type RNA-directed DNA polymerase (EC 2.7.7.49)
+NapTol_Functional_sc_25_40	557	35063	35620	NapTol_Functional_sc_25	35962	-		Bacteria (2)	phage integrase family protein
+NapTol_Functional_sc_24_0	725	77	802	NapTol_Functional_sc_24	31719	+		root (1)	hypothetical protein
+NapTol_Functional_sc_24_1	302	988	1290	NapTol_Functional_sc_24	31719	+		Alphaproteobacteria (28211)	bll1742 putative transposase
+NapTol_Functional_sc_24_2	830	1287	2117	NapTol_Functional_sc_24	31719	+		Proteobacteria (1224)	Transposase OrfAB, subunit B
+NapTol_Functional_sc_24_3	1016	2714	3730	NapTol_Functional_sc_24	31719	+		root (1)	hypothetical protein
+NapTol_Functional_sc_24_4	590	4498	5088	NapTol_Functional_sc_24	31719	+		Bacteria (2)	MULTISPECIES: restriction endonuclease BglII
+NapTol_Functional_sc_24_5	686	5072	5758	NapTol_Functional_sc_24	31719	+		Bacteria (2)	type II DNA modification methyltransferase, putative
+NapTol_Functional_sc_24_6	245	6235	6480	NapTol_Functional_sc_24	31719	+		Bacteria (2)	hypothetical protein
+NapTol_Functional_sc_24_7	1121	6517	7638	NapTol_Functional_sc_24	31719	+		root (1)	hypothetical protein
+NapTol_Functional_sc_24_8	779	7696	8475	NapTol_Functional_sc_24	31719	-	2.3.1.51	Proteobacteria (1224)	1-acyl-sn-glycerol-3-phosphate acyltransferase (EC 2.3.1.51)
+NapTol_Functional_sc_24_9	329	8751	9080	NapTol_Functional_sc_24	31719	+		root (1)	hypothetical protein
+NapTol_Functional_sc_24_10	875	9070	9945	NapTol_Functional_sc_24	31719	+		root (1)	hypothetical protein
+NapTol_Functional_sc_24_11	767	10042	10809	NapTol_Functional_sc_24	31719	+		Desulfobacteraceae (213119)	3-hydroxyacyl-CoA dehydrogenase (hbd-2)
+NapTol_Functional_sc_24_12	1934	11098	13032	NapTol_Functional_sc_24	31719	+		Proteobacteria (1224)	Kup system potassium uptake protein
+NapTol_Functional_sc_24_13	440	13054	13494	NapTol_Functional_sc_24	31719	+		Chlorobaculum parvum (274539)	Cupin 2, conserved barrel domain protein
+NapTol_Functional_sc_24_14	644	13539	14183	NapTol_Functional_sc_24	31719	-		Desulfatibacillum alkenivorans (259354)	PHP domain-containing protein
+NapTol_Functional_sc_24_15	224	14220	14444	NapTol_Functional_sc_24	31719	-		Bacteria (2)	hypothetical protein
+NapTol_Functional_sc_24_16	1700	14872	16572	NapTol_Functional_sc_24	31719	+	6.2.1.3	Bacteria (2)	Long-chain-fatty-acid--CoA ligase (EC 6.2.1.3)
+NapTol_Functional_sc_24_17	395	16644	17039	NapTol_Functional_sc_24	31719	-		Desulfobacteraceae (213119)	UspA domain protein
+NapTol_Functional_sc_24_18	629	17246	17875	NapTol_Functional_sc_24	31719	+	1.1.1.95	Clostridiales (186802)	D-3-phosphoglycerate dehydrogenase (EC 1.1.1.95)
+NapTol_Functional_sc_24_19	509	17957	18466	NapTol_Functional_sc_24	31719	-	1.14.13.3	Peptococcaceae (186807)	4-hydroxyphenylacetate 3-monooxygenase (EC 1.14.13.3)
+NapTol_Functional_sc_24_20	356	18408	18764	NapTol_Functional_sc_24	31719	-	1.14.13.3	Monera	4-hydroxyphenylacetate 3-monooxygenase (EC 1.14.13.3)
+NapTol_Functional_sc_24_21	1241	19033	20274	NapTol_Functional_sc_24	31719	-		root (1)	hypothetical protein
+NapTol_Functional_sc_24_22	1313	20527	21840	NapTol_Functional_sc_24	31719	+		root (1)	hypothetical protein
+NapTol_Functional_sc_24_23	740	21963	22703	NapTol_Functional_sc_24	31719	+		Bacteria (2)	Oxygen-insensitive NADPH nitroreductase (EC 1.-.-.-)
+NapTol_Functional_sc_24_24	590	22764	23354	NapTol_Functional_sc_24	31719	+		Monera	putative iron-sulfur flavoprotein
+NapTol_Functional_sc_24_25	572	23406	23978	NapTol_Functional_sc_24	31719	-		root (1)	hypothetical protein
+NapTol_Functional_sc_24_26	455	23932	24387	NapTol_Functional_sc_24	31719	-		Syntrophobacterales (213462)	Transcription termination protein NusB
+NapTol_Functional_sc_24_27	470	24542	25012	NapTol_Functional_sc_24	31719	-	2.5.1.78	Bacteria (2)	6,7-dimethyl-8-ribityllumazine synthase (EC 2.5.1.78)
+NapTol_Functional_sc_24_28	1202	25039	26241	NapTol_Functional_sc_24	31719	-	4.1.99.12	Bacteria (2)	3,4-dihydroxy-2-butanone 4-phosphate synthase (EC 4.1.99.12) / GTP cyclohydrolase II 3.5.4.25)
+NapTol_Functional_sc_24_29	635	26254	26889	NapTol_Functional_sc_24	31719	-	2.5.1.9	Bacteria (2)	Riboflavin synthase eubacterial/eukaryotic (EC 2.5.1.9) [Haemophilus
+NapTol_Functional_sc_24_30	461	26892	27353	NapTol_Functional_sc_24	31719	-		Bacteria (2)	Ribonucleotide reductase transcriptional regulator NrdR
+NapTol_Functional_sc_24_31	494	27375	27869	NapTol_Functional_sc_24	31719	-	3.5.4.12	Bacteria (2)	dCMP deaminase (EC 3.5.4.12) Late competence protein ComEB
+NapTol_Functional_sc_24_32	1250	27924	29174	NapTol_Functional_sc_24	31719	-	2.1.2.1	Bacteria (2)	Serine hydroxymethyltransferase (EC 2.1.2.1)
+NapTol_Functional_sc_24_33	1241	29199	30440	NapTol_Functional_sc_24	31719	-	2.3.1.41	Bacteria (2)	3-oxoacyl- synthase, KASII (EC 2.3.1.41)
+NapTol_Functional_sc_24_34	236	30464	30700	NapTol_Functional_sc_24	31719	-		Bacteria (2)	Acyl carrier protein
+NapTol_Functional_sc_24_35	185	30812	30997	NapTol_Functional_sc_24	31719	-		Bacteria (2)	LSU ribosomal protein L32p @ L32p, zinc-dependent
+NapTol_Functional_sc_24_36	698	31019	31717	NapTol_Functional_sc_24	31719	-		root (1)	hypothetical protein
+NapTol_Functional_sc_23_0	1745	354	2099	NapTol_Functional_sc_23	14616	+	1.17.4.2	Bacteria (2)	Ribonucleotide reductase class III (anaerobic), large subunit (EC 1.17.4.2)
+NapTol_Functional_sc_23_1	878	2116	2994	NapTol_Functional_sc_23	14616	+		root (1)	hypothetical protein
+NapTol_Functional_sc_23_2	1694	3025	4719	NapTol_Functional_sc_23	14616	-		Bacteria (2)	von Willebrand factor type A domain protein
+NapTol_Functional_sc_23_3	173	4844	5017	NapTol_Functional_sc_23	14616	+		root (1)	hypothetical protein
+NapTol_Functional_sc_23_4	809	4995	5804	NapTol_Functional_sc_23	14616	-		Treponema caldaria (215591)	Haloacid dehalogenase domain-containing protein hydrolase
+NapTol_Functional_sc_23_5	626	5789	6415	NapTol_Functional_sc_23	14616	-	2.5.1.3	Treponema caldaria (215591)	Thiamin-phosphate pyrophosphorylase (EC 2.5.1.3)
+NapTol_Functional_sc_23_6	824	6402	7226	NapTol_Functional_sc_23	14616	-	2.7.1.50	Bacteria (2)	Hydroxyethylthiazole kinase (EC 2.7.1.50)
+NapTol_Functional_sc_23_7	818	7223	8041	NapTol_Functional_sc_23	14616	-	2.7.4.7	Bacteria (2)	Hydroxymethylpyrimidine phosphate kinase ThiD (EC 2.7.4.7)
+NapTol_Functional_sc_23_8	1298	8031	9329	NapTol_Functional_sc_23	14616	-	4.1.99.17	Bacteria (2)	Hydroxymethylpyrimidine phosphate synthase ThiC (EC 4.1.99.17)
+NapTol_Functional_sc_23_9	467	9651	10118	NapTol_Functional_sc_23	14616	-	2.5.1.78	Bacteria (2)	6,7-dimethyl-8-ribityllumazine synthase (EC 2.5.1.78)
+NapTol_Functional_sc_23_10	1241	10115	11356	NapTol_Functional_sc_23	14616	-	4.1.99.12	Firmicutes (1239)	3,4-dihydroxy-2-butanone 4-phosphate synthase (EC 4.1.99.12) / GTP cyclohydrolase II 3.5.4.25)
+NapTol_Functional_sc_23_11	668	11356	12024	NapTol_Functional_sc_23	14616	-	2.5.1.9	Bacteria (2)	Riboflavin synthase eubacterial/eukaryotic (EC 2.5.1.9) [Haemophilus
+NapTol_Functional_sc_23_12	1106	12009	13115	NapTol_Functional_sc_23	14616	-	3.5.4.26	Clostridia (186801)	Diaminohydroxyphosphoribosylaminopyrimidine deaminase (EC 3.5.4.26) / 5-amino-6-(5-phosphoribosylamino)uracil reductase 1.1.1.193)
+NapTol_Functional_sc_23_13	401	13400	13801	NapTol_Functional_sc_23	14616	-	1.7.1.13	Bacteria (2)	NADPH dependent preQ0 reductase (EC 1.7.1.13)
+NapTol_Functional_sc_23_14	689	13801	14490	NapTol_Functional_sc_23	14616	-		Bacteria (2)	Putative preQ0 transporter
+NapTol_Functional_sc_23_15	128	14487	14615	NapTol_Functional_sc_23	14616	-		root (1)	hypothetical protein
+NapTol_Functional_sc_22_0	650	7	657	NapTol_Functional_sc_22	21252	-		root (1)	hypothetical protein
+NapTol_Functional_sc_22_1	599	872	1471	NapTol_Functional_sc_22	21252	+		root (1)	hypothetical protein
+NapTol_Functional_sc_22_2	272	1535	1807	NapTol_Functional_sc_22	21252	-		root (1)	hypothetical protein
+NapTol_Functional_sc_22_3	1520	1928	3448	NapTol_Functional_sc_22	21252	-	1.12.7.2	Bacteria (2)	Periplasmic hydrogenase (EC 1.12.7.2)
+NapTol_Functional_sc_22_4	275	3441	3716	NapTol_Functional_sc_22	21252	-		root (1)	hypothetical protein
+NapTol_Functional_sc_22_5	1256	4363	5619	NapTol_Functional_sc_22	21252	-		Desulfomonile tiedjei (2358)	Fe-S oxidoreductase
+NapTol_Functional_sc_22_6	773	5623	6396	NapTol_Functional_sc_22	21252	-		root (1)	hypothetical protein
+NapTol_Functional_sc_22_7	239	6406	6645	NapTol_Functional_sc_22	21252	-		Bacillales (1385)	SirA family protein
+NapTol_Functional_sc_22_8	536	6678	7214	NapTol_Functional_sc_22	21252	-	1.8.1.14	Firmicutes (1239)	CoA-disulfide reductase (EC 1.8.1.14) / Disulfide bond regulator
+NapTol_Functional_sc_22_9	302	7268	7570	NapTol_Functional_sc_22	21252	-		Anaeromyxobacter sp. Fw109-5 (404589)	transcriptional regulator, ArsR family
+NapTol_Functional_sc_22_10	2051	7642	9693	NapTol_Functional_sc_22	21252	+	1.5.1.20	Bacteria (2)	5,10-methylenetetrahydrofolate reductase (EC 1.5.1.20)
+NapTol_Functional_sc_22_11	3740	9690	13430	NapTol_Functional_sc_22	21252	+	2.1.1.13	Proteobacteria (1224)	5-methyltetrahydrofolate--homocysteine methyltransferase (EC 2.1.1.13)
+NapTol_Functional_sc_22_12	800	13357	14157	NapTol_Functional_sc_22	21252	-		root (1)	hypothetical protein
+NapTol_Functional_sc_22_13	410	14161	14571	NapTol_Functional_sc_22	21252	-		Bacteria (2)	NIL domain-containing protein
+NapTol_Functional_sc_22_14	1154	14568	15722	NapTol_Functional_sc_22	21252	-		Monera	Ferredoxin oxidoreductase
+NapTol_Functional_sc_22_15	1271	15876	17147	NapTol_Functional_sc_22	21252	-		Bacteria (2)	Putative GTP-binding protien TM0445
+NapTol_Functional_sc_22_16	1349	17157	18506	NapTol_Functional_sc_22	21252	-	4.3.1.1	Spirochaetaceae (137)	Aspartate ammonia-lyase (EC 4.3.1.1)
+NapTol_Functional_sc_22_17	1037	18496	19533	NapTol_Functional_sc_22	21252	-		Bacteria (2)	Biotin synthase related enzymes
+NapTol_Functional_sc_22_18	1385	19530	20915	NapTol_Functional_sc_22	21252	-		Bacteria (2)	Thiazole biosynthesis protein ThiH
+NapTol_Functional_sc_22_19	287	20887	21174	NapTol_Functional_sc_22	21252	-		Clostridia (186801)	CopG family transcripitonal regulator
+NapTol_Functional_sc_21_0	1484	3	1487	NapTol_Functional_sc_21	38023	-		Clostridia (186801)	Excinuclease ABC subunit B
+NapTol_Functional_sc_21_1	1340	1504	2844	NapTol_Functional_sc_21	38023	-		root (1)	hypothetical protein
+NapTol_Functional_sc_21_2	182	2909	3091	NapTol_Functional_sc_21	38023	+		root (1)	hypothetical protein
+NapTol_Functional_sc_21_3	113	3091	3204	NapTol_Functional_sc_21	38023	+		root (1)	hypothetical protein
+NapTol_Functional_sc_21_4	296	3234	3530	NapTol_Functional_sc_21	38023	+		root (1)	hypothetical protein
+NapTol_Functional_sc_21_5	638	3534	4172	NapTol_Functional_sc_21	38023	-		Bacteria (2)	Uracil-DNA glycosylase, family 4
+NapTol_Functional_sc_21_6	188	4228	4416	NapTol_Functional_sc_21	38023	-		Firmicutes (1239)	predicted RNA binding protein
+NapTol_Functional_sc_21_7	890	4584	5474	NapTol_Functional_sc_21	38023	-		Desulfotomaculum acetoxidans (58138)	Beta-lysine acetyltransferase (EC 2.3.1.-)
+NapTol_Functional_sc_21_8	1283	5464	6747	NapTol_Functional_sc_21	38023	-	5.4.3.2	Bacteria (2)	Lysine 2,3-aminomutase (EC 5.4.3.2)
+NapTol_Functional_sc_21_9	1049	7183	8232	NapTol_Functional_sc_21	38023	-		Peptococcaceae (186807)	multidrug transporter
+NapTol_Functional_sc_21_10	185	8219	8404	NapTol_Functional_sc_21	38023	-		root (1)	hypothetical protein
+NapTol_Functional_sc_21_11	1112	8773	9885	NapTol_Functional_sc_21	38023	-		Clostridia (186801)	Cell division topological determinant MinJ
+NapTol_Functional_sc_21_12	1175	10070	11245	NapTol_Functional_sc_21	38023	-	3.4.21.102	Peptococcaceae (186807)	Carboxyl-terminal protease (EC 3.4.21.102)
+NapTol_Functional_sc_21_13	197	11217	11414	NapTol_Functional_sc_21	38023	-		root (1)	hypothetical protein
+NapTol_Functional_sc_21_14	1130	11458	12588	NapTol_Functional_sc_21	38023	-		Peptococcaceae (186807)	Membrane proteins related to metalloendopeptidases
+NapTol_Functional_sc_21_15	890	12619	13509	NapTol_Functional_sc_21	38023	-		Firmicutes (1239)	Cell division protein FtsX
+NapTol_Functional_sc_21_16	686	13493	14179	NapTol_Functional_sc_21	38023	-		Clostridia (186801)	Cell division transporter, ATP-binding protein FtsE (TC 3.A.5.1.1)
+NapTol_Functional_sc_21_17	398	14279	14677	NapTol_Functional_sc_21	38023	-		Firmicutes (1239)	phenylacetic acid degradation-like protein
+NapTol_Functional_sc_21_18	2000	14748	16748	NapTol_Functional_sc_21	38023	-	3.6.1.1	Monera	Pyrophosphate-energized proton pump (EC 3.6.1.1)
+NapTol_Functional_sc_21_19	227	16951	17178	NapTol_Functional_sc_21	38023	-		Firmicutes (1239)	Preprotein translocase subunit SecG (TC 3.A.5.1.1)
+NapTol_Functional_sc_21_20	356	17283	17639	NapTol_Functional_sc_21	38023	-		Firmicutes (1239)	Ribosomal silencing factor RsfA (former Iojap)
+NapTol_Functional_sc_21_21	251	17761	18012	NapTol_Functional_sc_21	38023	-		Bacteria (2)	RNA-binding region RNP-1
+NapTol_Functional_sc_21_22	605	18112	18717	NapTol_Functional_sc_21	38023	-	2.7.7.18	Clostridia (186801)	Nicotinate-nucleotide adenylyltransferase (EC 2.7.7.18) ## bacterial NadD family
+NapTol_Functional_sc_21_23	1118	18743	19861	NapTol_Functional_sc_21	38023	-	2.7.2.11	Bacteria (2)	Glutamate 5-kinase (EC 2.7.2.11) / RNA-binding C-terminal domain PUA
+NapTol_Functional_sc_21_24	1271	19895	21166	NapTol_Functional_sc_21	38023	-		Firmicutes (1239)	GTP-binding protein Obg
+NapTol_Functional_sc_21_25	560	21191	21751	NapTol_Functional_sc_21	38023	-		root (1)	hypothetical protein
+NapTol_Functional_sc_21_26	263	22233	22496	NapTol_Functional_sc_21	38023	-		Clostridiales (186802)	LSU ribosomal protein L27p
+NapTol_Functional_sc_21_27	317	22518	22835	NapTol_Functional_sc_21	38023	-		Firmicutes (1239)	LSU ribosomal protein L21p
+NapTol_Functional_sc_21_28	1559	23265	24824	NapTol_Functional_sc_21	38023	+	6.4.1.2	Bacillales (1385)	Acetyl-coenzyme A carboxyl transferase alpha chain (EC 6.4.1.2) / beta 6.4.1.2) Propionyl-CoA carboxylase 6.4.1.3)
+NapTol_Functional_sc_21_29	455	24890	25345	NapTol_Functional_sc_21	38023	-		Clostridiales (186802)	Archaeal/vacuolar-type H+-ATPase subunit H
+NapTol_Functional_sc_21_30	596	25386	25982	NapTol_Functional_sc_21	38023	-		Peptococcaceae (186807)	Ribosomal RNA small subunit methyltransferase D (EC 2.1.1.-)
+NapTol_Functional_sc_21_31	962	26101	27063	NapTol_Functional_sc_21	38023	+	3.4.24.78	Clostridia (186801)	Endopeptidase spore protease Gpr (EC 3.4.24.78)
+NapTol_Functional_sc_21_32	254	27482	27736	NapTol_Functional_sc_21	38023	-		Clostridia (186801)	Small acid-soluble spore protein, beta-type SASP
+NapTol_Functional_sc_21_33	2078	27912	29990	NapTol_Functional_sc_21	38023	-		Bacteria (2)	ATP-dependent DNA helicase RecG (EC 3.6.1.-)
+NapTol_Functional_sc_21_34	1040	30268	31308	NapTol_Functional_sc_21	38023	-	2.4.2.11	Bacteria (2)	Nicotinate phosphoribosyltransferase (EC 2.4.2.11)
+NapTol_Functional_sc_21_35	479	31312	31791	NapTol_Functional_sc_21	38023	-	2.5.1.78	Firmicutes (1239)	6,7-dimethyl-8-ribityllumazine synthase (EC 2.5.1.78)
+NapTol_Functional_sc_21_36	1208	31822	33030	NapTol_Functional_sc_21	38023	-	4.1.99.12	Firmicutes (1239)	3,4-dihydroxy-2-butanone 4-phosphate synthase (EC 4.1.99.12) / GTP cyclohydrolase II 3.5.4.25)
+NapTol_Functional_sc_21_37	620	33072	33692	NapTol_Functional_sc_21	38023	-	2.5.1.9	Clostridiales (186802)	Riboflavin synthase eubacterial/eukaryotic (EC 2.5.1.9)
+NapTol_Functional_sc_21_38	1076	33768	34844	NapTol_Functional_sc_21	38023	-	3.5.4.26	Clostridia (186801)	Diaminohydroxyphosphoribosylaminopyrimidine deaminase (EC 3.5.4.26) / 5-amino-6-(5-phosphoribosylamino)uracil reductase 1.1.1.193)
+NapTol_Functional_sc_21_39	653	35138	35791	NapTol_Functional_sc_21	38023	-		Clostridia (186801)	GntR family transcriptional regulator
+NapTol_Functional_sc_21_40	1292	35996	37288	NapTol_Functional_sc_21	38023	-	2.3.1.16	Bacteria (2)	3-ketoacyl-CoA thiolase (EC 2.3.1.16) @ Acetyl-CoA acetyltransferase 2.3.1.9)
+NapTol_Functional_sc_21_41	527	37494	38021	NapTol_Functional_sc_21	38023	+		root (1)	hypothetical protein
+NapTol_Functional_sc_20_0	431	3	434	NapTol_Functional_sc_20	34995	+	6.3.5.5	Bacteria (2)	Carbamoyl-phosphate synthase small chain (EC 6.3.5.5)
+NapTol_Functional_sc_20_1	1529	431	1960	NapTol_Functional_sc_20	34995	+	6.3.5.2	Bacteria (2)	GMP synthase (EC 6.3.5.2)
+NapTol_Functional_sc_20_2	3203	1974	5177	NapTol_Functional_sc_20	34995	+	6.3.5.5	Bacteria (2)	Carbamoyl-phosphate synthase large chain (EC 6.3.5.5)
+NapTol_Functional_sc_20_3	1427	5394	6821	NapTol_Functional_sc_20	34995	+	2.4.2.14	Deltaproteobacteria (28221)	Amidophosphoribosyltransferase (EC 2.4.2.14)
+NapTol_Functional_sc_20_4	203	7102	7305	NapTol_Functional_sc_20	34995	+		root (1)	hypothetical protein
+NapTol_Functional_sc_20_5	863	7423	8286	NapTol_Functional_sc_20	34995	+		Bacteria (2)	DNA methyltransferase SptAIM protects against PvuII endonuclease
+NapTol_Functional_sc_20_6	770	8267	9037	NapTol_Functional_sc_20	34995	+		Bacteria (2)	DNA modification methylase
+NapTol_Functional_sc_20_7	743	9132	9875	NapTol_Functional_sc_20	34995	+		root (1)	hypothetical protein
+NapTol_Functional_sc_20_8	272	9961	10233	NapTol_Functional_sc_20	34995	+		delta proteobacterium NaphS2 (88274)	toxin-antitoxin system, antitoxin component, PHD family
+NapTol_Functional_sc_20_9	260	10230	10490	NapTol_Functional_sc_20	34995	+		delta proteobacterium NaphS2 (88274)	toxin-antitoxin system, toxin component, RelE family
+NapTol_Functional_sc_20_10	1070	10494	11564	NapTol_Functional_sc_20	34995	-		Rhizobiales (356)	putative transposase
+NapTol_Functional_sc_20_11	581	11740	12321	NapTol_Functional_sc_20	34995	-		root (1)	hypothetical protein
+NapTol_Functional_sc_20_12	689	12344	13033	NapTol_Functional_sc_20	34995	-		root (1)	hypothetical protein
+NapTol_Functional_sc_20_13	743	13192	13935	NapTol_Functional_sc_20	34995	-		Bacteria (2)	protein containing transposase DDE domain
+NapTol_Functional_sc_20_14	431	13923	14354	NapTol_Functional_sc_20	34995	-		root (1)	hypothetical protein
+NapTol_Functional_sc_20_15	275	14497	14772	NapTol_Functional_sc_20	34995	-		Bacteria (2)	transcriptional regulator, XRE family
+NapTol_Functional_sc_20_16	308	14769	15077	NapTol_Functional_sc_20	34995	-		Bacteria (2)	toxin RelE
+NapTol_Functional_sc_20_17	1403	15569	16972	NapTol_Functional_sc_20	34995	-	6.1.1.17	Proteobacteria (1224)	Glutamyl-tRNA synthetase (EC 6.1.1.17)
+NapTol_Functional_sc_20_18	542	17148	17690	NapTol_Functional_sc_20	34995	+		root (1)	hypothetical protein
+NapTol_Functional_sc_20_19	185	17711	17896	NapTol_Functional_sc_20	34995	+		Bacteria (2)	LSU ribosomal protein L32p @ L32p, zinc-dependent
+NapTol_Functional_sc_20_20	236	18130	18366	NapTol_Functional_sc_20	34995	+		Bacteria (2)	Acyl carrier protein
+NapTol_Functional_sc_20_21	1241	18390	19631	NapTol_Functional_sc_20	34995	+	2.3.1.179	Bacteria (2)	3-oxoacyl- synthase, KASII (EC 2.3.1.179)
+NapTol_Functional_sc_20_22	1253	19684	20937	NapTol_Functional_sc_20	34995	+	2.1.2.1	Bacteria (2)	Serine hydroxymethyltransferase (EC 2.1.2.1)
+NapTol_Functional_sc_20_23	485	20962	21447	NapTol_Functional_sc_20	34995	+	3.5.4.12	Bacteria (2)	dCMP deaminase (EC 3.5.4.12) Late competence protein ComEB
+NapTol_Functional_sc_20_24	461	21478	21939	NapTol_Functional_sc_20	34995	+		Bacteria (2)	Ribonucleotide reductase transcriptional regulator NrdR
+NapTol_Functional_sc_20_25	638	21943	22581	NapTol_Functional_sc_20	34995	+	2.5.1.9	Bacteria (2)	Riboflavin synthase eubacterial/eukaryotic (EC 2.5.1.9)
+NapTol_Functional_sc_20_26	1202	22592	23794	NapTol_Functional_sc_20	34995	+	4.1.99.12	Bacteria (2)	3,4-dihydroxy-2-butanone 4-phosphate synthase (EC 4.1.99.12) / GTP cyclohydrolase II 3.5.4.25)
+NapTol_Functional_sc_20_27	464	23839	24303	NapTol_Functional_sc_20	34995	+	2.5.1.9	Bacteria (2)	6,7-dimethyl-8-ribityllumazine synthase (EC 2.5.1.9)
+NapTol_Functional_sc_20_28	440	24390	24830	NapTol_Functional_sc_20	34995	+		Bacteria (2)	Transcription termination protein NusB
+NapTol_Functional_sc_20_29	569	24799	25368	NapTol_Functional_sc_20	34995	+		root (1)	hypothetical protein
+NapTol_Functional_sc_20_30	794	25717	26511	NapTol_Functional_sc_20	34995	-		Deltaproteobacteria (28221)	Ferredoxin
+NapTol_Functional_sc_20_31	593	26733	27326	NapTol_Functional_sc_20	34995	+		Firmicutes (1239)	transposase IS4 family protein
+NapTol_Functional_sc_20_32	290	27417	27707	NapTol_Functional_sc_20	34995	+		root (1)	hypothetical protein
+NapTol_Functional_sc_20_33	509	27814	28323	NapTol_Functional_sc_20	34995	+		Pelodictyon phaeoclathratiforme (34090)	hypothetical protein
+NapTol_Functional_sc_20_34	326	28428	28754	NapTol_Functional_sc_20	34995	+		root (1)	hypothetical protein
+NapTol_Functional_sc_20_35	401	28782	29183	NapTol_Functional_sc_20	34995	+		Bacteria (2)	hypothetical protein
+NapTol_Functional_sc_20_36	458	29861	30319	NapTol_Functional_sc_20	34995	-		root (1)	hypothetical protein
+NapTol_Functional_sc_20_37	152	30371	30523	NapTol_Functional_sc_20	34995	-		root (1)	hypothetical protein
+NapTol_Functional_sc_20_38	539	30574	31113	NapTol_Functional_sc_20	34995	-		root (1)	hypothetical protein
+NapTol_Functional_sc_20_39	1172	31140	32312	NapTol_Functional_sc_20	34995	-		root (1)	hypothetical protein
+NapTol_Functional_sc_20_40	479	32334	32813	NapTol_Functional_sc_20	34995	-		root (1)	hypothetical protein
+NapTol_Functional_sc_20_41	1139	32954	34093	NapTol_Functional_sc_20	34995	-		root (1)	hypothetical protein
+NapTol_Functional_sc_20_42	281	34292	34573	NapTol_Functional_sc_20	34995	-	1.3.8.1	Bacteria (2)	Butyryl-CoA dehydrogenase (EC 1.3.8.1)
+NapTol_Functional_sc_16_0	500	1	501	NapTol_Functional_sc_16	30975	-	3.4.23.43	Bacteria (2)	Leader peptidase (Prepilin peptidase) (EC 3.4.23.43) / N-methyltransferase 2.1.1.-)
+NapTol_Functional_sc_16_1	266	504	770	NapTol_Functional_sc_16	30975	-		Betaproteobacteria (28216)	sugar transport PTS system phosphocarrier protein HPR
+NapTol_Functional_sc_16_2	395	781	1176	NapTol_Functional_sc_16	30975	-	2.7.1.69	Desulfuromonadales (69541)	PTS system, mannose-specific IIA component (EC 2.7.1.69)
+NapTol_Functional_sc_16_3	857	1183	2040	NapTol_Functional_sc_16	30975	-		Bacteria (2)	Hypothetical ATP-binding protein UPF0042, contains P-loop
+NapTol_Functional_sc_16_4	959	2043	3002	NapTol_Functional_sc_16	30975	-		Bacteria (2)	HPr kinase/phosphorylase (EC 2.7.1.-) 2.7.4.-)
+NapTol_Functional_sc_16_5	545	3051	3596	NapTol_Functional_sc_16	30975	-		Bacteria (2)	Ribosomal subunit interface protein
+NapTol_Functional_sc_16_6	1448	3642	5090	NapTol_Functional_sc_16	30975	-		Bacteria (2)	RNA polymerase sigma-54 factor RpoN
+NapTol_Functional_sc_16_7	746	5121	5867	NapTol_Functional_sc_16	30975	-		Gammaproteobacteria (1236)	Lipopolysaccharide ABC transporter, ATP-binding protein LptB
+NapTol_Functional_sc_16_8	539	5848	6387	NapTol_Functional_sc_16	30975	-		Geobacter (28231)	sugar ABC transporter substrate-binding protein
+NapTol_Functional_sc_16_9	581	6374	6955	NapTol_Functional_sc_16	30975	-		Geobacter lovleyi (313985)	hypothetical protein
+NapTol_Functional_sc_16_10	518	7037	7555	NapTol_Functional_sc_16	30975	-	3.1.3.45	Proteobacteria (1224)	3-deoxy-D-manno-octulosonate 8-phosphate phosphatase (EC 3.1.3.45)
+NapTol_Functional_sc_16_11	968	7576	8544	NapTol_Functional_sc_16	30975	-	5.3.1.13	Bacteria (2)	Arabinose 5-phosphate isomerase (EC 5.3.1.13)
+NapTol_Functional_sc_16_12	821	8541	9362	NapTol_Functional_sc_16	30975	-	2.5.1.55	Bacteria (2)	2-Keto-3-deoxy-D-manno-octulosonate-8-phosphate synthase (EC 2.5.1.55) ## KdsA
+NapTol_Functional_sc_16_13	1016	9474	10490	NapTol_Functional_sc_16	30975	+		Bacteria (2)	Holliday junction DNA helicase RuvB
+NapTol_Functional_sc_16_14	701	10491	11192	NapTol_Functional_sc_16	30975	+		Desulfuromonadales (69541)	DnaA regulatory inactivator Hda (Homologous to DnaA)
+NapTol_Functional_sc_16_15	1313	11257	12570	NapTol_Functional_sc_16	30975	+		Desulfuromonadales (69541)	heat shock protein DnaJ domain-containing
+NapTol_Functional_sc_16_16	2342	12596	14938	NapTol_Functional_sc_16	30975	-		Desulfuromonadales (69541)	Phosphoenolpyruvate-protein phosphotransferase, nitrogen regulation associated
+NapTol_Functional_sc_16_17	800	15072	15872	NapTol_Functional_sc_16	30975	+		Desulfuromonadales (69541)	TPR domain protein, putative component TonB system
+NapTol_Functional_sc_16_18	1265	15955	17220	NapTol_Functional_sc_16	30975	-	2.7.2.1	Clostridia (186801)	Acetate kinase (EC 2.7.2.1)
+NapTol_Functional_sc_16_19	167	17470	17637	NapTol_Functional_sc_16	30975	+		root (1)	hypothetical protein
+NapTol_Functional_sc_16_20	542	17721	18263	NapTol_Functional_sc_16	30975	-		Bacteria (2)	FIG053235: Diacylglucosamine hydrolase like
+NapTol_Functional_sc_16_21	1205	18263	19468	NapTol_Functional_sc_16	30975	-	4.1.99.12	Bacteria (2)	3,4-dihydroxy-2-butanone 4-phosphate synthase (EC 4.1.99.12) / GTP cyclohydrolase II 3.5.4.25)
+NapTol_Functional_sc_16_22	641	19486	20127	NapTol_Functional_sc_16	30975	-	2.5.1.9	Bacteria (2)	Riboflavin synthase eubacterial/eukaryotic (EC 2.5.1.9)
+NapTol_Functional_sc_16_23	1103	20112	21215	NapTol_Functional_sc_16	30975	-	3.5.4.26	Bacteria (2)	Diaminohydroxyphosphoribosylaminopyrimidine deaminase (EC 3.5.4.26) / 5-amino-6-(5-phosphoribosylamino)uracil reductase 1.1.1.193)
+NapTol_Functional_sc_16_24	452	21237	21689	NapTol_Functional_sc_16	30975	-		Bacteria (2)	Ribonucleotide reductase transcriptional regulator NrdR
+NapTol_Functional_sc_16_25	470	21686	22156	NapTol_Functional_sc_16	30975	-	3.5.4.12	Bacteria (2)	dCMP deaminase (EC 3.5.4.12) Late competence protein ComEB
+NapTol_Functional_sc_16_26	467	22379	22846	NapTol_Functional_sc_16	30975	+		Desulfuromonadales (69541)	Cytochrome c'
+NapTol_Functional_sc_16_27	398	22893	23291	NapTol_Functional_sc_16	30975	+		Bacteria (2)	response regulator receiver protein
+NapTol_Functional_sc_16_28	1796	23322	25118	NapTol_Functional_sc_16	30975	+		Desulfuromonadales (69541)	methyl accepting chemotaxis protein, putative
+NapTol_Functional_sc_16_29	359	25128	25487	NapTol_Functional_sc_16	30975	+		Geobacter lovleyi (313985)	sulfate transporter/antisigma-factor antagonist STAS
+NapTol_Functional_sc_16_30	365	25489	25854	NapTol_Functional_sc_16	30975	+		Proteobacteria (1224)	Chemotaxis regulator - transmits chemoreceptor signals to flagelllar motor components CheY
+NapTol_Functional_sc_16_31	2117	25879	27996	NapTol_Functional_sc_16	30975	+		Proteobacteria (1224)	Signal transduction histidine kinase CheA (EC 2.7.3.-)
+NapTol_Functional_sc_16_32	1115	28138	29253	NapTol_Functional_sc_16	30975	+		root (1)	hypothetical protein
+NapTol_Functional_sc_16_33	1349	29250	30599	NapTol_Functional_sc_16	30975	+		Desulfovibrio (872)	Methyl-accepting chemotaxis protein I (serine chemoreceptor protein)
+NapTol_Functional_sc_16_34	365	30609	30974	NapTol_Functional_sc_16	30975	+		Deltaproteobacteria (28221)	Positive regulator CheA protein activity (CheW)
+NapTol_Functional_sc_17_0	251	2	253	NapTol_Functional_sc_17	8025	+	3.4.23.43	Bacteria (2)	Leader peptidase (Prepilin peptidase) (EC 3.4.23.43) / N-methyltransferase 2.1.1.-)
+NapTol_Functional_sc_17_1	1517	250	1767	NapTol_Functional_sc_17	8025	+		Geobacter (28231)	Two-component sensor PilS
+NapTol_Functional_sc_17_2	1352	1764	3116	NapTol_Functional_sc_17	8025	+		Bacteria (2)	Acetoacetate metabolism regulatory protein AtoC
+NapTol_Functional_sc_17_3	1058	3117	4175	NapTol_Functional_sc_17	8025	-		Bacteria (2)	Putative DNA-binding protein cluster Type I restriction-modification system
+NapTol_Functional_sc_17_4	569	4393	4962	NapTol_Functional_sc_17	8025	+		root (1)	hypothetical protein
+NapTol_Functional_sc_17_5	803	5151	5954	NapTol_Functional_sc_17	8025	+		Desulfuromonadales (69541)	Thiol:disulfide interchange protein DsbC
+NapTol_Functional_sc_17_6	305	6002	6307	NapTol_Functional_sc_17	8025	+		root (1)	hypothetical protein
+NapTol_Functional_sc_17_7	1721	6304	8025	NapTol_Functional_sc_17	8025	+		root (1)	hypothetical protein
+NapTol_Functional_sc_14_0	1160	93	1253	NapTol_Functional_sc_14	34404	-	3.6.3.3	Bacteria (2)	Lead, cadmium, zinc mercury transporting ATPase (EC 3.6.3.3) 3.6.3.5) Copper-translocating P-type 3.6.3.4)
+NapTol_Functional_sc_14_1	1559	1348	2907	NapTol_Functional_sc_14	34404	-		root (1)	hypothetical protein
+NapTol_Functional_sc_14_2	836	2997	3833	NapTol_Functional_sc_14	34404	-		Bacteria (2)	high-affinity iron transporter
+NapTol_Functional_sc_14_3	2465	4040	6505	NapTol_Functional_sc_14	34404	+	3.6.3.3	Bacteria (2)	Lead, cadmium, zinc mercury transporting ATPase (EC 3.6.3.3) 3.6.3.5) Copper-translocating P-type 3.6.3.4)
+NapTol_Functional_sc_14_4	1250	6589	7839	NapTol_Functional_sc_14	34404	-		root (1)	hypothetical protein
+NapTol_Functional_sc_14_5	650	7892	8542	NapTol_Functional_sc_14	34404	-		root (1)	hypothetical protein
+NapTol_Functional_sc_14_6	599	8757	9356	NapTol_Functional_sc_14	34404	+		root (1)	hypothetical protein
+NapTol_Functional_sc_14_7	272	9420	9692	NapTol_Functional_sc_14	34404	-		root (1)	hypothetical protein
+NapTol_Functional_sc_14_8	1520	9813	11333	NapTol_Functional_sc_14	34404	-	1.12.7.2	Bacteria (2)	Periplasmic hydrogenase (EC 1.12.7.2)
+NapTol_Functional_sc_14_9	275	11326	11601	NapTol_Functional_sc_14	34404	-		root (1)	hypothetical protein
+NapTol_Functional_sc_14_10	1256	12248	13504	NapTol_Functional_sc_14	34404	-		Desulfomonile tiedjei (2358)	Fe-S oxidoreductase
+NapTol_Functional_sc_14_11	773	13508	14281	NapTol_Functional_sc_14	34404	-		root (1)	hypothetical protein
+NapTol_Functional_sc_14_12	239	14291	14530	NapTol_Functional_sc_14	34404	-		Bacillales (1385)	SirA family protein
+NapTol_Functional_sc_14_13	536	14563	15099	NapTol_Functional_sc_14	34404	-	1.8.1.14	Firmicutes (1239)	CoA-disulfide reductase (EC 1.8.1.14) / Disulfide bond regulator
+NapTol_Functional_sc_14_14	302	15153	15455	NapTol_Functional_sc_14	34404	-		Anaeromyxobacter sp. Fw109-5 (404589)	transcriptional regulator, ArsR family
+NapTol_Functional_sc_14_15	2051	15527	17578	NapTol_Functional_sc_14	34404	+	1.5.1.20	Bacteria (2)	5,10-methylenetetrahydrofolate reductase (EC 1.5.1.20)
+NapTol_Functional_sc_14_16	3740	17575	21315	NapTol_Functional_sc_14	34404	+	2.1.1.13	Proteobacteria (1224)	5-methyltetrahydrofolate--homocysteine methyltransferase (EC 2.1.1.13)
+NapTol_Functional_sc_14_17	800	21242	22042	NapTol_Functional_sc_14	34404	-		root (1)	hypothetical protein
+NapTol_Functional_sc_14_18	410	22046	22456	NapTol_Functional_sc_14	34404	-		Bacteria (2)	NIL domain-containing protein
+NapTol_Functional_sc_14_19	1154	22453	23607	NapTol_Functional_sc_14	34404	-		Monera	Ferredoxin oxidoreductase
+NapTol_Functional_sc_14_20	1271	23761	25032	NapTol_Functional_sc_14	34404	-		Bacteria (2)	Putative GTP-binding protien TM0445
+NapTol_Functional_sc_14_21	1349	25042	26391	NapTol_Functional_sc_14	34404	-	4.3.1.1	Spirochaetaceae (137)	Aspartate ammonia-lyase (EC 4.3.1.1)
+NapTol_Functional_sc_14_22	1037	26381	27418	NapTol_Functional_sc_14	34404	-		Bacteria (2)	Biotin synthase related enzymes
+NapTol_Functional_sc_14_23	1385	27415	28800	NapTol_Functional_sc_14	34404	-		Bacteria (2)	Thiazole biosynthesis protein ThiH
+NapTol_Functional_sc_14_24	287	28772	29059	NapTol_Functional_sc_14	34404	-		Clostridia (186801)	CopG family transcripitonal regulator
+NapTol_Functional_sc_14_25	689	29335	30024	NapTol_Functional_sc_14	34404	+		Bacteria (2)	Putative preQ0 transporter
+NapTol_Functional_sc_14_26	401	30024	30425	NapTol_Functional_sc_14	34404	+	1.7.1.13	Bacteria (2)	NADPH dependent preQ0 reductase (EC 1.7.1.13)
+NapTol_Functional_sc_14_27	1106	30710	31816	NapTol_Functional_sc_14	34404	+	3.5.4.26	Clostridia (186801)	Diaminohydroxyphosphoribosylaminopyrimidine deaminase (EC 3.5.4.26) / 5-amino-6-(5-phosphoribosylamino)uracil reductase 1.1.1.193)
+NapTol_Functional_sc_14_28	668	31801	32469	NapTol_Functional_sc_14	34404	+	2.5.1.9	Bacteria (2)	Riboflavin synthase eubacterial/eukaryotic (EC 2.5.1.9) [Haemophilus
+NapTol_Functional_sc_14_29	1241	32469	33710	NapTol_Functional_sc_14	34404	+	4.1.99.12	Firmicutes (1239)	3,4-dihydroxy-2-butanone 4-phosphate synthase (EC 4.1.99.12) / GTP cyclohydrolase II 3.5.4.25)
+NapTol_Functional_sc_14_30	467	33707	34174	NapTol_Functional_sc_14	34404	+	2.5.1.78	Bacteria (2)	6,7-dimethyl-8-ribityllumazine synthase (EC 2.5.1.78)
+NapTol_Functional_sc_15_0	425	1	426	NapTol_Functional_sc_15	31456	+		root (1)	hypothetical protein
+NapTol_Functional_sc_15_1	185	448	633	NapTol_Functional_sc_15	31456	+		Bacteria (2)	LSU ribosomal protein L32p @ L32p, zinc-dependent
+NapTol_Functional_sc_15_2	236	745	981	NapTol_Functional_sc_15	31456	+		Bacteria (2)	Acyl carrier protein
+NapTol_Functional_sc_15_3	1241	1005	2246	NapTol_Functional_sc_15	31456	+	2.3.1.41	Bacteria (2)	3-oxoacyl- synthase, KASII (EC 2.3.1.41)
+NapTol_Functional_sc_15_4	1250	2271	3521	NapTol_Functional_sc_15	31456	+	2.1.2.1	Bacteria (2)	Serine hydroxymethyltransferase (EC 2.1.2.1)
+NapTol_Functional_sc_15_5	494	3576	4070	NapTol_Functional_sc_15	31456	+	3.5.4.12	Bacteria (2)	dCMP deaminase (EC 3.5.4.12) Late competence protein ComEB
+NapTol_Functional_sc_15_6	461	4092	4553	NapTol_Functional_sc_15	31456	+		Bacteria (2)	Ribonucleotide reductase transcriptional regulator NrdR
+NapTol_Functional_sc_15_7	635	4556	5191	NapTol_Functional_sc_15	31456	+	2.5.1.9	Bacteria (2)	Riboflavin synthase eubacterial/eukaryotic (EC 2.5.1.9) [Haemophilus
+NapTol_Functional_sc_15_8	1202	5204	6406	NapTol_Functional_sc_15	31456	+	4.1.99.12	Bacteria (2)	3,4-dihydroxy-2-butanone 4-phosphate synthase (EC 4.1.99.12) / GTP cyclohydrolase II 3.5.4.25)
+NapTol_Functional_sc_15_9	470	6433	6903	NapTol_Functional_sc_15	31456	+	2.5.1.78	Bacteria (2)	6,7-dimethyl-8-ribityllumazine synthase (EC 2.5.1.78)
+NapTol_Functional_sc_15_10	455	7058	7513	NapTol_Functional_sc_15	31456	+		Syntrophobacterales (213462)	Transcription termination protein NusB
+NapTol_Functional_sc_15_11	572	7467	8039	NapTol_Functional_sc_15	31456	+		root (1)	hypothetical protein
+NapTol_Functional_sc_15_12	590	8091	8681	NapTol_Functional_sc_15	31456	-		Monera	putative iron-sulfur flavoprotein
+NapTol_Functional_sc_15_13	740	8742	9482	NapTol_Functional_sc_15	31456	-		Bacteria (2)	Oxygen-insensitive NADPH nitroreductase (EC 1.-.-.-)
+NapTol_Functional_sc_15_14	1313	9605	10918	NapTol_Functional_sc_15	31456	-		root (1)	hypothetical protein
+NapTol_Functional_sc_15_15	1241	11171	12412	NapTol_Functional_sc_15	31456	+		root (1)	hypothetical protein
+NapTol_Functional_sc_15_16	356	12681	13037	NapTol_Functional_sc_15	31456	+	1.14.13.3	Monera	4-hydroxyphenylacetate 3-monooxygenase (EC 1.14.13.3)
+NapTol_Functional_sc_15_17	509	12979	13488	NapTol_Functional_sc_15	31456	+	1.14.13.3	Peptococcaceae (186807)	4-hydroxyphenylacetate 3-monooxygenase (EC 1.14.13.3)
+NapTol_Functional_sc_15_18	629	13570	14199	NapTol_Functional_sc_15	31456	-	1.1.1.95	Clostridiales (186802)	D-3-phosphoglycerate dehydrogenase (EC 1.1.1.95)
+NapTol_Functional_sc_15_19	395	14406	14801	NapTol_Functional_sc_15	31456	+		Desulfobacteraceae (213119)	UspA domain protein
+NapTol_Functional_sc_15_20	1700	14873	16573	NapTol_Functional_sc_15	31456	-	6.2.1.3	Bacteria (2)	Long-chain-fatty-acid--CoA ligase (EC 6.2.1.3)
+NapTol_Functional_sc_15_21	224	17001	17225	NapTol_Functional_sc_15	31456	+		Bacteria (2)	hypothetical protein
+NapTol_Functional_sc_15_22	644	17262	17906	NapTol_Functional_sc_15	31456	+		Desulfatibacillum alkenivorans (259354)	PHP domain-containing protein
+NapTol_Functional_sc_15_23	440	17951	18391	NapTol_Functional_sc_15	31456	-		Chlorobaculum parvum (274539)	Cupin 2, conserved barrel domain protein
+NapTol_Functional_sc_15_24	1934	18413	20347	NapTol_Functional_sc_15	31456	-		Proteobacteria (1224)	Kup system potassium uptake protein
+NapTol_Functional_sc_15_25	767	20636	21403	NapTol_Functional_sc_15	31456	-		Desulfobacteraceae (213119)	3-hydroxyacyl-CoA dehydrogenase (hbd-2)
+NapTol_Functional_sc_15_26	875	21500	22375	NapTol_Functional_sc_15	31456	-		root (1)	hypothetical protein
+NapTol_Functional_sc_15_27	329	22365	22694	NapTol_Functional_sc_15	31456	-		root (1)	hypothetical protein
+NapTol_Functional_sc_15_28	779	22970	23749	NapTol_Functional_sc_15	31456	+	2.3.1.51	Proteobacteria (1224)	1-acyl-sn-glycerol-3-phosphate acyltransferase (EC 2.3.1.51)
+NapTol_Functional_sc_15_29	1121	23807	24928	NapTol_Functional_sc_15	31456	-		root (1)	hypothetical protein
+NapTol_Functional_sc_15_30	245	24965	25210	NapTol_Functional_sc_15	31456	-		Bacteria (2)	hypothetical protein
+NapTol_Functional_sc_15_31	686	25687	26373	NapTol_Functional_sc_15	31456	-		Bacteria (2)	type II DNA modification methyltransferase, putative
+NapTol_Functional_sc_15_32	590	26357	26947	NapTol_Functional_sc_15	31456	-		Bacteria (2)	MULTISPECIES: restriction endonuclease BglII
+NapTol_Functional_sc_15_33	1016	27715	28731	NapTol_Functional_sc_15	31456	-		root (1)	hypothetical protein
+NapTol_Functional_sc_15_34	830	29328	30158	NapTol_Functional_sc_15	31456	-		Proteobacteria (1224)	Transposase OrfAB, subunit B
+NapTol_Functional_sc_15_35	302	30155	30457	NapTol_Functional_sc_15	31456	-		Alphaproteobacteria (28211)	bll1742 putative transposase
+NapTol_Functional_sc_15_36	725	30643	31368	NapTol_Functional_sc_15	31456	-		root (1)	hypothetical protein
+NapTol_Functional_sc_12_0	314	2	316	NapTol_Functional_sc_12	35240	-		root (1)	hypothetical protein
+NapTol_Functional_sc_12_1	716	556	1272	NapTol_Functional_sc_12	35240	-		Proteobacteria (1224)	hypothetical protein
+NapTol_Functional_sc_12_2	512	1269	1781	NapTol_Functional_sc_12	35240	-		Bacteria (2)	hypothetical protein
+NapTol_Functional_sc_12_3	1406	2310	3716	NapTol_Functional_sc_12	35240	-	6.1.1.17	Proteobacteria (1224)	Glutamyl-tRNA synthetase (EC 6.1.1.17) ## unambiguous
+NapTol_Functional_sc_12_4	542	3884	4426	NapTol_Functional_sc_12	35240	+		root (1)	hypothetical protein
+NapTol_Functional_sc_12_5	185	4448	4633	NapTol_Functional_sc_12	35240	+		Bacteria (2)	LSU ribosomal protein L32p @ L32p, zinc-dependent
+NapTol_Functional_sc_12_6	236	4745	4981	NapTol_Functional_sc_12	35240	+		Bacteria (2)	Acyl carrier protein
+NapTol_Functional_sc_12_7	1241	5005	6246	NapTol_Functional_sc_12	35240	+	2.3.1.41	Bacteria (2)	3-oxoacyl- synthase, KASII (EC 2.3.1.41)
+NapTol_Functional_sc_12_8	1250	6271	7521	NapTol_Functional_sc_12	35240	+	2.1.2.1	Bacteria (2)	Serine hydroxymethyltransferase (EC 2.1.2.1)
+NapTol_Functional_sc_12_9	494	7576	8070	NapTol_Functional_sc_12	35240	+	3.5.4.12	Bacteria (2)	dCMP deaminase (EC 3.5.4.12) Late competence protein ComEB
+NapTol_Functional_sc_12_10	461	8092	8553	NapTol_Functional_sc_12	35240	+		Bacteria (2)	Ribonucleotide reductase transcriptional regulator NrdR
+NapTol_Functional_sc_12_11	635	8556	9191	NapTol_Functional_sc_12	35240	+	2.5.1.9	Bacteria (2)	Riboflavin synthase eubacterial/eukaryotic (EC 2.5.1.9) [Haemophilus
+NapTol_Functional_sc_12_12	1202	9204	10406	NapTol_Functional_sc_12	35240	+	4.1.99.12	Bacteria (2)	3,4-dihydroxy-2-butanone 4-phosphate synthase (EC 4.1.99.12) / GTP cyclohydrolase II 3.5.4.25)
+NapTol_Functional_sc_12_13	470	10433	10903	NapTol_Functional_sc_12	35240	+	2.5.1.78	Bacteria (2)	6,7-dimethyl-8-ribityllumazine synthase (EC 2.5.1.78)
+NapTol_Functional_sc_12_14	455	11058	11513	NapTol_Functional_sc_12	35240	+		Syntrophobacterales (213462)	Transcription termination protein NusB
+NapTol_Functional_sc_12_15	572	11467	12039	NapTol_Functional_sc_12	35240	+		root (1)	hypothetical protein
+NapTol_Functional_sc_12_16	590	12091	12681	NapTol_Functional_sc_12	35240	-		Monera	putative iron-sulfur flavoprotein
+NapTol_Functional_sc_12_17	740	12742	13482	NapTol_Functional_sc_12	35240	-		Bacteria (2)	Oxygen-insensitive NADPH nitroreductase (EC 1.-.-.-)
+NapTol_Functional_sc_12_18	1313	13605	14918	NapTol_Functional_sc_12	35240	-		root (1)	hypothetical protein
+NapTol_Functional_sc_12_19	1241	15170	16411	NapTol_Functional_sc_12	35240	+		root (1)	hypothetical protein
+NapTol_Functional_sc_12_20	356	16679	17035	NapTol_Functional_sc_12	35240	+	1.14.13.3	Monera	4-hydroxyphenylacetate 3-monooxygenase (EC 1.14.13.3)
+NapTol_Functional_sc_12_21	509	16977	17486	NapTol_Functional_sc_12	35240	+	1.14.13.3	Peptococcaceae (186807)	4-hydroxyphenylacetate 3-monooxygenase (EC 1.14.13.3)
+NapTol_Functional_sc_12_22	629	17568	18197	NapTol_Functional_sc_12	35240	-	1.1.1.95	Clostridiales (186802)	D-3-phosphoglycerate dehydrogenase (EC 1.1.1.95)
+NapTol_Functional_sc_12_23	395	18404	18799	NapTol_Functional_sc_12	35240	+		Desulfobacteraceae (213119)	UspA domain protein
+NapTol_Functional_sc_12_24	1700	18871	20571	NapTol_Functional_sc_12	35240	-	6.2.1.3	Bacteria (2)	Long-chain-fatty-acid--CoA ligase (EC 6.2.1.3)
+NapTol_Functional_sc_12_25	224	20999	21223	NapTol_Functional_sc_12	35240	+		Bacteria (2)	hypothetical protein
+NapTol_Functional_sc_12_26	644	21260	21904	NapTol_Functional_sc_12	35240	+		Desulfatibacillum alkenivorans (259354)	PHP domain-containing protein
+NapTol_Functional_sc_12_27	440	21949	22389	NapTol_Functional_sc_12	35240	-		Chlorobaculum parvum (274539)	Cupin 2, conserved barrel domain protein
+NapTol_Functional_sc_12_28	1934	22411	24345	NapTol_Functional_sc_12	35240	-		Proteobacteria (1224)	Kup system potassium uptake protein
+NapTol_Functional_sc_12_29	767	24634	25401	NapTol_Functional_sc_12	35240	-		Desulfobacteraceae (213119)	3-hydroxyacyl-CoA dehydrogenase (hbd-2)
+NapTol_Functional_sc_12_30	875	25498	26373	NapTol_Functional_sc_12	35240	-		root (1)	hypothetical protein
+NapTol_Functional_sc_12_31	329	26363	26692	NapTol_Functional_sc_12	35240	-		root (1)	hypothetical protein
+NapTol_Functional_sc_12_32	779	26974	27753	NapTol_Functional_sc_12	35240	+	2.3.1.51	Proteobacteria (1224)	1-acyl-sn-glycerol-3-phosphate acyltransferase (EC 2.3.1.51)
+NapTol_Functional_sc_12_33	1121	27811	28932	NapTol_Functional_sc_12	35240	-		root (1)	hypothetical protein
+NapTol_Functional_sc_12_34	245	28969	29214	NapTol_Functional_sc_12	35240	-		Bacteria (2)	hypothetical protein
+NapTol_Functional_sc_12_35	686	29691	30377	NapTol_Functional_sc_12	35240	-		Bacteria (2)	type II DNA modification methyltransferase, putative
+NapTol_Functional_sc_12_36	590	30361	30951	NapTol_Functional_sc_12	35240	-		Bacteria (2)	MULTISPECIES: restriction endonuclease BglII
+NapTol_Functional_sc_12_37	1442	31437	32879	NapTol_Functional_sc_12	35240	-	5.3.3.3	Bacteria (2)	4-hydroxybutanoyl-CoA dehydratase (EC 4.2.1.-) / Vinylacetyl-CoA Delta-isomerase 5.3.3.3)
+NapTol_Functional_sc_12_38	149	32954	33103	NapTol_Functional_sc_12	35240	-		root (1)	hypothetical protein
+NapTol_Functional_sc_12_39	476	33124	33600	NapTol_Functional_sc_12	35240	-		root (1)	hypothetical protein
+NapTol_Functional_sc_12_40	575	33593	34168	NapTol_Functional_sc_12	35240	-		Monera	Iron-sulfur flavoprotein
+NapTol_Functional_sc_12_41	683	34204	34887	NapTol_Functional_sc_12	35240	-		Deltaproteobacteria (28221)	carbon monoxide dehydrogenase E protein
+NapTol_Functional_sc_13_0	938	3	941	NapTol_Functional_sc_13	34815	+	4.2.1.3	Bacteria (2)	Aconitate hydratase (EC 4.2.1.3)
+NapTol_Functional_sc_13_1	1121	967	2088	NapTol_Functional_sc_13	34815	+		root (1)	hypothetical protein
+NapTol_Functional_sc_13_2	272	2131	2403	NapTol_Functional_sc_13	34815	+	4.1.3.6	Bacteria (2)	Citrate lyase gamma chain, acyl carrier protein (EC 4.1.3.6)
+NapTol_Functional_sc_13_3	656	2346	3002	NapTol_Functional_sc_13	34815	+		root (1)	hypothetical protein
+NapTol_Functional_sc_13_4	929	2983	3912	NapTol_Functional_sc_13	34815	+		root (1)	hypothetical protein
+NapTol_Functional_sc_13_5	1250	3934	5184	NapTol_Functional_sc_13	34815	+	1.1.1.42	Gammaproteobacteria (1236)	Isocitrate dehydrogenase (EC 1.1.1.42)
+NapTol_Functional_sc_13_6	971	5283	6254	NapTol_Functional_sc_13	34815	+		root (1)	hypothetical protein
+NapTol_Functional_sc_13_7	335	6464	6799	NapTol_Functional_sc_13	34815	+		root (1)	hypothetical protein
+NapTol_Functional_sc_13_8	674	6937	7611	NapTol_Functional_sc_13	34815	+		Bacteria (2)	response regulator two-component regulatory system PhoQ
+NapTol_Functional_sc_13_9	1427	7615	9042	NapTol_Functional_sc_13	34815	+		root (1)	hypothetical protein
+NapTol_Functional_sc_13_10	1826	9060	10886	NapTol_Functional_sc_13	34815	-		root (1)	hypothetical protein
+NapTol_Functional_sc_13_11	680	10883	11563	NapTol_Functional_sc_13	34815	-		root (1)	hypothetical protein
+NapTol_Functional_sc_13_12	827	11568	12395	NapTol_Functional_sc_13	34815	-		Bacteria (2)	SN-glycerol-3-phosphate transport system permease protein UgpE (TC 3.A.1.1.3)
+NapTol_Functional_sc_13_13	890	12392	13282	NapTol_Functional_sc_13	34815	-		Firmicutes (1239)	N-Acetyl-D-glucosamine ABC transport system, permease protein 1
+NapTol_Functional_sc_13_14	1247	13360	14607	NapTol_Functional_sc_13	34815	-		root (1)	hypothetical protein
+NapTol_Functional_sc_13_15	2429	14619	17048	NapTol_Functional_sc_13	34815	-		root (1)	hypothetical protein
+NapTol_Functional_sc_13_16	989	17250	18239	NapTol_Functional_sc_13	34815	+		Treponema caldaria (215591)	LacI family transcriptional regulator
+NapTol_Functional_sc_13_17	1358	18314	19672	NapTol_Functional_sc_13	34815	+	3.2.1.22	Bacteria (2)	Alpha-galactosidase (EC 3.2.1.22)
+NapTol_Functional_sc_13_18	1568	19852	21420	NapTol_Functional_sc_13	34815	+		Treponema caldaria (215591)	Polyferredoxin NapH (periplasmic nitrate reductase)
+NapTol_Functional_sc_13_19	350	21438	21788	NapTol_Functional_sc_13	34815	+		root (1)	hypothetical protein
+NapTol_Functional_sc_13_20	2135	22197	24332	NapTol_Functional_sc_13	34815	+	1.17.4.2	Bacteria (2)	Ribonucleotide reductase class III (anaerobic), large subunit (EC 1.17.4.2)
+NapTol_Functional_sc_13_21	878	24349	25227	NapTol_Functional_sc_13	34815	+		root (1)	hypothetical protein
+NapTol_Functional_sc_13_22	1694	25258	26952	NapTol_Functional_sc_13	34815	-		Bacteria (2)	von Willebrand factor type A domain protein
+NapTol_Functional_sc_13_23	788	27228	28016	NapTol_Functional_sc_13	34815	-		Treponema caldaria (215591)	Haloacid dehalogenase domain-containing protein hydrolase
+NapTol_Functional_sc_13_24	626	28022	28648	NapTol_Functional_sc_13	34815	-	2.5.1.3	Treponema caldaria (215591)	Thiamin-phosphate pyrophosphorylase (EC 2.5.1.3)
+NapTol_Functional_sc_13_25	824	28635	29459	NapTol_Functional_sc_13	34815	-	2.7.1.50	Bacteria (2)	Hydroxyethylthiazole kinase (EC 2.7.1.50)
+NapTol_Functional_sc_13_26	818	29456	30274	NapTol_Functional_sc_13	34815	-	2.7.4.7	Bacteria (2)	Hydroxymethylpyrimidine phosphate kinase ThiD (EC 2.7.4.7)
+NapTol_Functional_sc_13_27	1298	30264	31562	NapTol_Functional_sc_13	34815	-	4.1.99.17	Bacteria (2)	Hydroxymethylpyrimidine phosphate synthase ThiC (EC 4.1.99.17)
+NapTol_Functional_sc_13_28	467	31884	32351	NapTol_Functional_sc_13	34815	-	2.5.1.78	Bacteria (2)	6,7-dimethyl-8-ribityllumazine synthase (EC 2.5.1.78)
+NapTol_Functional_sc_13_29	1241	32348	33589	NapTol_Functional_sc_13	34815	-	4.1.99.12	Firmicutes (1239)	3,4-dihydroxy-2-butanone 4-phosphate synthase (EC 4.1.99.12) / GTP cyclohydrolase II 3.5.4.25)
+NapTol_Functional_sc_13_30	668	33589	34257	NapTol_Functional_sc_13	34815	-	2.5.1.9	Bacteria (2)	Riboflavin synthase eubacterial/eukaryotic (EC 2.5.1.9) [Haemophilus
+NapTol_Functional_sc_13_31	572	34242	34814	NapTol_Functional_sc_13	34815	-	3.5.4.26	Firmicutes (1239)	Diaminohydroxyphosphoribosylaminopyrimidine deaminase (EC 3.5.4.26) / 5-amino-6-(5-phosphoribosylamino)uracil reductase 1.1.1.193)
+NapTol_Functional_sc_10_0	509	131	640	NapTol_Functional_sc_10	31399	-		Firmicutes (1239)	GTP-binding protein Obg
+NapTol_Functional_sc_10_1	548	653	1201	NapTol_Functional_sc_10	31399	-		root (1)	hypothetical protein
+NapTol_Functional_sc_10_2	263	1695	1958	NapTol_Functional_sc_10	31399	-		Clostridiales (186802)	LSU ribosomal protein L27p
+NapTol_Functional_sc_10_3	317	1980	2297	NapTol_Functional_sc_10	31399	-		Firmicutes (1239)	LSU ribosomal protein L21p
+NapTol_Functional_sc_10_4	1559	2727	4286	NapTol_Functional_sc_10	31399	+	6.4.1.2	Bacillales (1385)	Acetyl-coenzyme A carboxyl transferase alpha chain (EC 6.4.1.2) / beta 6.4.1.2) Propionyl-CoA carboxylase 6.4.1.3)
+NapTol_Functional_sc_10_5	455	4352	4807	NapTol_Functional_sc_10	31399	-		Clostridiales (186802)	Archaeal/vacuolar-type H+-ATPase subunit H
+NapTol_Functional_sc_10_6	596	4848	5444	NapTol_Functional_sc_10	31399	-		Peptococcaceae (186807)	Ribosomal RNA small subunit methyltransferase D (EC 2.1.1.-)
+NapTol_Functional_sc_10_7	962	5563	6525	NapTol_Functional_sc_10	31399	+	3.4.24.78	Clostridia (186801)	Endopeptidase spore protease Gpr (EC 3.4.24.78)
+NapTol_Functional_sc_10_8	254	6944	7198	NapTol_Functional_sc_10	31399	-		Clostridia (186801)	Small acid-soluble spore protein, beta-type SASP
+NapTol_Functional_sc_10_9	2078	7374	9452	NapTol_Functional_sc_10	31399	-		Bacteria (2)	ATP-dependent DNA helicase RecG (EC 3.6.1.-)
+NapTol_Functional_sc_10_10	1040	9730	10770	NapTol_Functional_sc_10	31399	-	2.4.2.11	Bacteria (2)	Nicotinate phosphoribosyltransferase (EC 2.4.2.11)
+NapTol_Functional_sc_10_11	479	10774	11253	NapTol_Functional_sc_10	31399	-	2.5.1.78	Firmicutes (1239)	6,7-dimethyl-8-ribityllumazine synthase (EC 2.5.1.78)
+NapTol_Functional_sc_10_12	1208	11284	12492	NapTol_Functional_sc_10	31399	-	4.1.99.12	Firmicutes (1239)	3,4-dihydroxy-2-butanone 4-phosphate synthase (EC 4.1.99.12) / GTP cyclohydrolase II 3.5.4.25)
+NapTol_Functional_sc_10_13	479	12534	13013	NapTol_Functional_sc_10	31399	-	2.5.1.9	Bacteria (2)	Riboflavin synthase eubacterial/eukaryotic (EC 2.5.1.9)
+NapTol_Functional_sc_10_14	1019	13230	14249	NapTol_Functional_sc_10	31399	-	3.5.4.26	Clostridia (186801)	Diaminohydroxyphosphoribosylaminopyrimidine deaminase (EC 3.5.4.26) / 5-amino-6-(5-phosphoribosylamino)uracil reductase 1.1.1.193)
+NapTol_Functional_sc_10_15	665	14600	15265	NapTol_Functional_sc_10	31399	-		Clostridia (186801)	GntR family transcriptional regulator
+NapTol_Functional_sc_10_16	845	15458	16303	NapTol_Functional_sc_10	31399	-	2.3.1.16	Bacteria (2)	3-ketoacyl-CoA thiolase (EC 2.3.1.16) @ Acetyl-CoA acetyltransferase 2.3.1.9)
+NapTol_Functional_sc_10_17	728	16369	17097	NapTol_Functional_sc_10	31399	-		root (1)	hypothetical protein
+NapTol_Functional_sc_10_18	1847	17100	18947	NapTol_Functional_sc_10	31399	-		root (1)	hypothetical protein
+NapTol_Functional_sc_10_19	1451	18947	20398	NapTol_Functional_sc_10	31399	-		root (1)	hypothetical protein
+NapTol_Functional_sc_10_20	533	20358	20891	NapTol_Functional_sc_10	31399	-		root (1)	hypothetical protein
+NapTol_Functional_sc_10_21	233	21092	21325	NapTol_Functional_sc_10	31399	-		root (1)	hypothetical protein
+NapTol_Functional_sc_10_22	137	21657	21794	NapTol_Functional_sc_10	31399	-		root (1)	hypothetical protein
+NapTol_Functional_sc_10_23	311	21855	22166	NapTol_Functional_sc_10	31399	-		root (1)	hypothetical protein
+NapTol_Functional_sc_10_24	296	22144	22440	NapTol_Functional_sc_10	31399	-		root (1)	hypothetical protein
+NapTol_Functional_sc_10_25	248	22449	22697	NapTol_Functional_sc_10	31399	-		root (1)	hypothetical protein
+NapTol_Functional_sc_10_26	635	22761	23396	NapTol_Functional_sc_10	31399	-		root (1)	hypothetical protein
+NapTol_Functional_sc_10_27	212	23408	23620	NapTol_Functional_sc_10	31399	-		root (1)	hypothetical protein
+NapTol_Functional_sc_10_28	326	23814	24140	NapTol_Functional_sc_10	31399	-		root (1)	hypothetical protein
+NapTol_Functional_sc_10_29	287	24149	24436	NapTol_Functional_sc_10	31399	-		root (1)	hypothetical protein
+NapTol_Functional_sc_10_30	791	24433	25224	NapTol_Functional_sc_10	31399	-		root (1)	hypothetical protein
+NapTol_Functional_sc_10_31	461	25416	25877	NapTol_Functional_sc_10	31399	-		root (1)	hypothetical protein
+NapTol_Functional_sc_10_32	893	25900	26793	NapTol_Functional_sc_10	31399	-		root (1)	hypothetical protein
+NapTol_Functional_sc_10_33	938	26795	27733	NapTol_Functional_sc_10	31399	-		root (1)	hypothetical protein
+NapTol_Functional_sc_10_34	893	28644	29537	NapTol_Functional_sc_10	31399	-		root (1)	hypothetical protein
+NapTol_Functional_sc_10_35	314	29807	30121	NapTol_Functional_sc_10	31399	-		root (1)	hypothetical protein
+NapTol_Functional_sc_10_36	359	30165	30524	NapTol_Functional_sc_10	31399	-		root (1)	hypothetical protein
+NapTol_Functional_sc_10_37	512	30551	31063	NapTol_Functional_sc_10	31399	-		root (1)	hypothetical protein
+NapTol_Functional_sc_11_0	311	1282	1593	NapTol_Functional_sc_11	21424	-		root (1)	glycosyl transferase protein, family 1 [ (GT4)
+NapTol_Functional_sc_11_1	1418	1640	3058	NapTol_Functional_sc_11	21424	+	5.99.1.3	Firmicutes (1239)	DNA gyrase subunit A (EC 5.99.1.3)
+NapTol_Functional_sc_11_2	176	4301	4477	NapTol_Functional_sc_11	21424	+		root (1)	hypothetical protein
+NapTol_Functional_sc_11_3	137	6774	6911	NapTol_Functional_sc_11	21424	+		root (1)	hypothetical protein
+NapTol_Functional_sc_11_4	791	8904	9695	NapTol_Functional_sc_11	21424	+		Youngiibacter fragilis (1408819)	polysaccharide deacetylase
+NapTol_Functional_sc_11_5	1151	9756	10907	NapTol_Functional_sc_11	21424	-		Firmicutes (1239)	proton/sodium-glutamate symport protein
+NapTol_Functional_sc_11_6	221	11038	11259	NapTol_Functional_sc_11	21424	-		Youngiibacter fragilis (1408819)	hypothetical protein
+NapTol_Functional_sc_11_7	212	11390	11602	NapTol_Functional_sc_11	21424	+		root (1)	hypothetical protein
+NapTol_Functional_sc_11_8	341	11573	11914	NapTol_Functional_sc_11	21424	-		Firmicutes (1239)	IstB ATP binding domain-containing protein
+NapTol_Functional_sc_11_9	164	11965	12129	NapTol_Functional_sc_11	21424	-		root (1)	hypothetical protein
+NapTol_Functional_sc_11_10	1484	12129	13613	NapTol_Functional_sc_11	21424	-		Firmicutes (1239)	ISPsy14, transposase
+NapTol_Functional_sc_11_11	1133	13756	14889	NapTol_Functional_sc_11	21424	+		Bacteria (2)	ISPsy14, transposase
+NapTol_Functional_sc_11_12	458	14843	15301	NapTol_Functional_sc_11	21424	+		Firmicutes (1239)	Mobile element protein
+NapTol_Functional_sc_11_13	743	15294	16037	NapTol_Functional_sc_11	21424	+		Bacteria (2)	Mobile element protein
+NapTol_Functional_sc_11_14	185	16092	16277	NapTol_Functional_sc_11	21424	-		root (1)	hypothetical protein
+NapTol_Functional_sc_11_15	203	16476	16679	NapTol_Functional_sc_11	21424	-		Clostridiaceae (31979)	aminotransferase classes I II
+NapTol_Functional_sc_11_16	713	16850	17563	NapTol_Functional_sc_11	21424	-	4.4.1.8	Firmicutes (1239)	Cystathionine beta-lyase, Bsu PatB (EC 4.4.1.8)
+NapTol_Functional_sc_11_17	2042	17866	19908	NapTol_Functional_sc_11	21424	-		Bacteria (2)	Response regulator zinc sigma-54-dependent two-component system
+NapTol_Functional_sc_11_18	359	20094	20453	NapTol_Functional_sc_11	21424	+		Bacteria (2)	Putative inner membrane protein
+NapTol_Functional_sc_11_19	818	20558	21376	NapTol_Functional_sc_11	21424	+		Firmicutes (1239)	Putative inner membrane protein
+NapTol_Functional_sc_18_0	362	395	757	NapTol_Functional_sc_18	20562	+		root (1)	hypothetical protein
+NapTol_Functional_sc_18_1	272	821	1093	NapTol_Functional_sc_18	20562	-		root (1)	hypothetical protein
+NapTol_Functional_sc_18_2	1520	1214	2734	NapTol_Functional_sc_18	20562	-	1.12.7.2	Bacteria (2)	Periplasmic hydrogenase (EC 1.12.7.2)
+NapTol_Functional_sc_18_3	275	2727	3002	NapTol_Functional_sc_18	20562	-		root (1)	hypothetical protein
+NapTol_Functional_sc_18_4	1256	3649	4905	NapTol_Functional_sc_18	20562	-		Desulfomonile tiedjei (2358)	Fe-S oxidoreductase
+NapTol_Functional_sc_18_5	773	4909	5682	NapTol_Functional_sc_18	20562	-		root (1)	hypothetical protein
+NapTol_Functional_sc_18_6	239	5692	5931	NapTol_Functional_sc_18	20562	-		Bacillales (1385)	SirA family protein
+NapTol_Functional_sc_18_7	536	5964	6500	NapTol_Functional_sc_18	20562	-	1.8.1.14	Firmicutes (1239)	CoA-disulfide reductase (EC 1.8.1.14) / Disulfide bond regulator
+NapTol_Functional_sc_18_8	302	6554	6856	NapTol_Functional_sc_18	20562	-		Anaeromyxobacter sp. Fw109-5 (404589)	transcriptional regulator, ArsR family
+NapTol_Functional_sc_18_9	2051	6928	8979	NapTol_Functional_sc_18	20562	+	1.5.1.20	Bacteria (2)	5,10-methylenetetrahydrofolate reductase (EC 1.5.1.20)
+NapTol_Functional_sc_18_10	3740	8976	12716	NapTol_Functional_sc_18	20562	+	2.1.1.13	Proteobacteria (1224)	5-methyltetrahydrofolate--homocysteine methyltransferase (EC 2.1.1.13)
+NapTol_Functional_sc_18_11	800	12643	13443	NapTol_Functional_sc_18	20562	-		root (1)	hypothetical protein
+NapTol_Functional_sc_18_12	410	13447	13857	NapTol_Functional_sc_18	20562	-		Bacteria (2)	NIL domain-containing protein
+NapTol_Functional_sc_18_13	1154	13854	15008	NapTol_Functional_sc_18	20562	-		Monera	Ferredoxin oxidoreductase
+NapTol_Functional_sc_18_14	1271	15162	16433	NapTol_Functional_sc_18	20562	-		Bacteria (2)	Putative GTP-binding protien TM0445
+NapTol_Functional_sc_18_15	1349	16443	17792	NapTol_Functional_sc_18	20562	-	4.3.1.1	Spirochaetaceae (137)	Aspartate ammonia-lyase (EC 4.3.1.1)
+NapTol_Functional_sc_18_16	1037	17782	18819	NapTol_Functional_sc_18	20562	-		Bacteria (2)	Biotin synthase related enzymes
+NapTol_Functional_sc_18_17	1385	18816	20201	NapTol_Functional_sc_18	20562	-		Bacteria (2)	Thiazole biosynthesis protein ThiH
+NapTol_Functional_sc_18_18	287	20173	20460	NapTol_Functional_sc_18	20562	-		Clostridia (186801)	CopG family transcripitonal regulator
+NapTol_Functional_sc_19_0	608	3	611	NapTol_Functional_sc_19	13128	+	1.17.4.2	Bacteria (2)	Ribonucleotide reductase class III (anaerobic), large subunit (EC 1.17.4.2)
+NapTol_Functional_sc_19_1	878	628	1506	NapTol_Functional_sc_19	13128	+		root (1)	hypothetical protein
+NapTol_Functional_sc_19_2	1694	1537	3231	NapTol_Functional_sc_19	13128	-		Bacteria (2)	von Willebrand factor type A domain protein
+NapTol_Functional_sc_19_3	173	3356	3529	NapTol_Functional_sc_19	13128	+		root (1)	hypothetical protein
+NapTol_Functional_sc_19_4	809	3507	4316	NapTol_Functional_sc_19	13128	-		Treponema caldaria (215591)	Haloacid dehalogenase domain-containing protein hydrolase
+NapTol_Functional_sc_19_5	626	4301	4927	NapTol_Functional_sc_19	13128	-	2.5.1.3	Treponema caldaria (215591)	Thiamin-phosphate pyrophosphorylase (EC 2.5.1.3)
+NapTol_Functional_sc_19_6	824	4914	5738	NapTol_Functional_sc_19	13128	-	2.7.1.50	Bacteria (2)	Hydroxyethylthiazole kinase (EC 2.7.1.50)
+NapTol_Functional_sc_19_7	818	5735	6553	NapTol_Functional_sc_19	13128	-	2.7.4.7	Bacteria (2)	Hydroxymethylpyrimidine phosphate kinase ThiD (EC 2.7.4.7)
+NapTol_Functional_sc_19_8	1298	6543	7841	NapTol_Functional_sc_19	13128	-	4.1.99.17	Bacteria (2)	Hydroxymethylpyrimidine phosphate synthase ThiC (EC 4.1.99.17)
+NapTol_Functional_sc_19_9	467	8163	8630	NapTol_Functional_sc_19	13128	-	2.5.1.78	Bacteria (2)	6,7-dimethyl-8-ribityllumazine synthase (EC 2.5.1.78)
+NapTol_Functional_sc_19_10	1241	8627	9868	NapTol_Functional_sc_19	13128	-	4.1.99.12	Firmicutes (1239)	3,4-dihydroxy-2-butanone 4-phosphate synthase (EC 4.1.99.12) / GTP cyclohydrolase II 3.5.4.25)
+NapTol_Functional_sc_19_11	668	9868	10536	NapTol_Functional_sc_19	13128	-	2.5.1.9	Bacteria (2)	Riboflavin synthase eubacterial/eukaryotic (EC 2.5.1.9) [Haemophilus
+NapTol_Functional_sc_19_12	1106	10521	11627	NapTol_Functional_sc_19	13128	-	3.5.4.26	Clostridia (186801)	Diaminohydroxyphosphoribosylaminopyrimidine deaminase (EC 3.5.4.26) / 5-amino-6-(5-phosphoribosylamino)uracil reductase 1.1.1.193)
+NapTol_Functional_sc_19_13	401	11912	12313	NapTol_Functional_sc_19	13128	-	1.7.1.13	Bacteria (2)	NADPH dependent preQ0 reductase (EC 1.7.1.13)
+NapTol_Functional_sc_19_14	689	12313	13002	NapTol_Functional_sc_19	13128	-		Bacteria (2)	Putative preQ0 transporter
+NapTol_Functional_sc_19_15	128	12999	13127	NapTol_Functional_sc_19	13128	-		root (1)	hypothetical protein
+NapTol_Functional_sc_38_0	2237	3	2240	NapTol_Functional_sc_38	14516	-	6.3.5.5	Bacteria (2)	Carbamoyl-phosphate synthase large chain (EC 6.3.5.5)
+NapTol_Functional_sc_38_1	983	2263	3246	NapTol_Functional_sc_38	14516	+		root (1)	hypothetical protein
+NapTol_Functional_sc_38_2	935	3522	4457	NapTol_Functional_sc_38	14516	+		root (1)	hypothetical protein
+NapTol_Functional_sc_38_3	1010	4534	5544	NapTol_Functional_sc_38	14516	-	1.1.1.94	Firmicutes (1239)	Glycerol-3-phosphate dehydrogenase (EC 1.1.1.94)
+NapTol_Functional_sc_38_4	620	5625	6245	NapTol_Functional_sc_38	14516	+		Bacteria (2)	Acyl-phosphate:glycerol-3-phosphate O-acyltransferase PlsY
+NapTol_Functional_sc_38_5	476	6260	6736	NapTol_Functional_sc_38	14516	-	2.5.1.78	Firmicutes (1239)	6,7-dimethyl-8-ribityllumazine synthase (EC 2.5.1.78)
+NapTol_Functional_sc_38_6	1244	6720	7964	NapTol_Functional_sc_38	14516	-	4.1.99.12	Clostridia (186801)	3,4-dihydroxy-2-butanone 4-phosphate synthase (EC 4.1.99.12) / GTP cyclohydrolase II 3.5.4.25)
+NapTol_Functional_sc_38_7	638	7966	8604	NapTol_Functional_sc_38	14516	-	2.5.1.9	Bacteria (2)	Riboflavin synthase eubacterial/eukaryotic (EC 2.5.1.9)
+NapTol_Functional_sc_38_8	1100	8641	9741	NapTol_Functional_sc_38	14516	-	3.5.4.26	Firmicutes (1239)	Diaminohydroxyphosphoribosylaminopyrimidine deaminase (EC 3.5.4.26) / 5-amino-6-(5-phosphoribosylamino)uracil reductase 1.1.1.193)
+NapTol_Functional_sc_38_9	1310	9987	11297	NapTol_Functional_sc_38	14516	-		root (1)	hypothetical protein
+NapTol_Functional_sc_38_10	1622	11796	13418	NapTol_Functional_sc_38	14516	+		root (1)	hypothetical protein
+NapTol_Functional_sc_38_11	641	13421	14062	NapTol_Functional_sc_38	14516	+		Oscillochloris trichoides (104176)	RNA polymerase, sigma-24 subunit, ECF subfamily
+NapTol_Functional_sc_38_12	440	14074	14514	NapTol_Functional_sc_38	14516	+		root (1)	hypothetical protein
+NapTol_Functional_sc_39_0	221	3	224	NapTol_Functional_sc_39	24235	+		root (1)	hypothetical protein
+NapTol_Functional_sc_39_1	797	239	1036	NapTol_Functional_sc_39	24235	+		root (1)	hypothetical protein
+NapTol_Functional_sc_39_2	1259	1147	2406	NapTol_Functional_sc_39	24235	+	6.1.1.21	Bacteria (2)	Histidyl-tRNA synthetase (EC 6.1.1.21)
+NapTol_Functional_sc_39_3	1049	2434	3483	NapTol_Functional_sc_39	24235	+		Bacteria (2)	Peptide chain release factor 1
+NapTol_Functional_sc_39_4	863	3567	4430	NapTol_Functional_sc_39	24235	+		root (1)	hypothetical protein
+NapTol_Functional_sc_39_5	674	4435	5109	NapTol_Functional_sc_39	24235	+		root (1)	hypothetical protein
+NapTol_Functional_sc_39_6	470	5146	5616	NapTol_Functional_sc_39	24235	+	5.3.1.6	Firmicutes (1239)	Ribose 5-phosphate isomerase B (EC 5.3.1.6)
+NapTol_Functional_sc_39_7	254	5696	5950	NapTol_Functional_sc_39	24235	+		root (1)	hypothetical protein
+NapTol_Functional_sc_39_8	1172	6005	7177	NapTol_Functional_sc_39	24235	-	2.6.1.11	Bacteria (2)	Acetylornithine aminotransferase (EC 2.6.1.11)
+NapTol_Functional_sc_39_9	131	7470	7601	NapTol_Functional_sc_39	24235	-		root (1)	hypothetical protein
+NapTol_Functional_sc_39_10	833	7625	8458	NapTol_Functional_sc_39	24235	-	2.7.2.8	Bacteria (2)	Acetylglutamate kinase (EC 2.7.2.8)
+NapTol_Functional_sc_39_11	1226	8472	9698	NapTol_Functional_sc_39	24235	-	2.3.1.35	Bacteria (2)	Glutamate N-acetyltransferase (EC 2.3.1.35) / N-acetylglutamate synthase 2.3.1.1)
+NapTol_Functional_sc_39_12	1019	9793	10812	NapTol_Functional_sc_39	24235	-	1.2.1.38	Bacteria (2)	N-acetyl-gamma-glutamyl-phosphate reductase (EC 1.2.1.38)
+NapTol_Functional_sc_39_13	596	11136	11732	NapTol_Functional_sc_39	24235	-	1.15.1.1	Monera	Superoxide dismutase (EC 1.15.1.1)
+NapTol_Functional_sc_39_14	182	11954	12136	NapTol_Functional_sc_39	24235	-		root (1)	hypothetical protein
+NapTol_Functional_sc_39_15	935	12244	13179	NapTol_Functional_sc_39	24235	+		Bacteria (2)	Cobalt-zinc-cadmium resistance protein CzcD
+NapTol_Functional_sc_39_16	506	13246	13752	NapTol_Functional_sc_39	24235	+		root (1)	hypothetical protein
+NapTol_Functional_sc_39_17	1718	14084	15802	NapTol_Functional_sc_39	24235	+	6.1.1.3	Bacteria (2)	Threonyl-tRNA synthetase (EC 6.1.1.3)
+NapTol_Functional_sc_39_18	470	15976	16446	NapTol_Functional_sc_39	24235	+		Bacteria (2)	Translation initiation factor 3
+NapTol_Functional_sc_39_19	467	16568	17035	NapTol_Functional_sc_39	24235	+		root (1)	hypothetical protein
+NapTol_Functional_sc_39_20	2072	17036	19108	NapTol_Functional_sc_39	24235	-		Chloroflexus aggregans (152260)	Cell division protein FtsK
+NapTol_Functional_sc_39_21	1658	19260	20918	NapTol_Functional_sc_39	24235	-		Firmicutes (1239)	Zn-dependent hydrolase, RNA-metabolising, CPSF 100 kDa analog
+NapTol_Functional_sc_39_22	611	20989	21600	NapTol_Functional_sc_39	24235	-		Monera	Uracil-DNA glycosylase, family 4
+NapTol_Functional_sc_39_23	386	21825	22211	NapTol_Functional_sc_39	24235	+		root (1)	hypothetical protein
+NapTol_Functional_sc_39_24	416	22277	22693	NapTol_Functional_sc_39	24235	+		Bacteria (2)	Single-stranded DNA-binding protein
+NapTol_Functional_sc_39_25	1034	23180	24214	NapTol_Functional_sc_39	24235	+		root (1)	hypothetical protein
+NapTol_Functional_sc_34_0	620	79	699	NapTol_Functional_sc_34	39855	-		Bacteria (2)	Cobalt-zinc-cadmium resistance protein CzcD
+NapTol_Functional_sc_34_1	182	807	989	NapTol_Functional_sc_34	39855	+		root (1)	hypothetical protein
+NapTol_Functional_sc_34_2	596	1211	1807	NapTol_Functional_sc_34	39855	+	1.15.1.1	Monera	Superoxide dismutase (EC 1.15.1.1)
+NapTol_Functional_sc_34_3	1019	2131	3150	NapTol_Functional_sc_34	39855	+	1.2.1.38	Bacteria (2)	N-acetyl-gamma-glutamyl-phosphate reductase (EC 1.2.1.38)
+NapTol_Functional_sc_34_4	1226	3245	4471	NapTol_Functional_sc_34	39855	+	2.3.1.35	Bacteria (2)	Glutamate N-acetyltransferase (EC 2.3.1.35) / N-acetylglutamate synthase 2.3.1.1)
+NapTol_Functional_sc_34_5	833	4485	5318	NapTol_Functional_sc_34	39855	+	2.7.2.8	Bacteria (2)	Acetylglutamate kinase (EC 2.7.2.8)
+NapTol_Functional_sc_34_6	131	5342	5473	NapTol_Functional_sc_34	39855	+		root (1)	hypothetical protein
+NapTol_Functional_sc_34_7	1172	5766	6938	NapTol_Functional_sc_34	39855	+	2.6.1.11	Bacteria (2)	Acetylornithine aminotransferase (EC 2.6.1.11)
+NapTol_Functional_sc_34_8	254	6993	7247	NapTol_Functional_sc_34	39855	-		root (1)	hypothetical protein
+NapTol_Functional_sc_34_9	470	7327	7797	NapTol_Functional_sc_34	39855	-	5.3.1.6	Firmicutes (1239)	Ribose 5-phosphate isomerase B (EC 5.3.1.6)
+NapTol_Functional_sc_34_10	674	7834	8508	NapTol_Functional_sc_34	39855	-		root (1)	hypothetical protein
+NapTol_Functional_sc_34_11	863	8513	9376	NapTol_Functional_sc_34	39855	-		root (1)	hypothetical protein
+NapTol_Functional_sc_34_12	1049	9460	10509	NapTol_Functional_sc_34	39855	-		Bacteria (2)	Peptide chain release factor 1
+NapTol_Functional_sc_34_13	1259	10537	11796	NapTol_Functional_sc_34	39855	-	6.1.1.21	Bacteria (2)	Histidyl-tRNA synthetase (EC 6.1.1.21)
+NapTol_Functional_sc_34_14	797	11907	12704	NapTol_Functional_sc_34	39855	-		root (1)	hypothetical protein
+NapTol_Functional_sc_34_15	965	12719	13684	NapTol_Functional_sc_34	39855	-		root (1)	hypothetical protein
+NapTol_Functional_sc_34_16	641	13756	14397	NapTol_Functional_sc_34	39855	-		Oscillochloris trichoides (104176)	RNA polymerase, sigma-24 subunit, ECF subfamily
+NapTol_Functional_sc_34_17	1622	14400	16022	NapTol_Functional_sc_34	39855	-		root (1)	hypothetical protein
+NapTol_Functional_sc_34_18	1310	16521	17831	NapTol_Functional_sc_34	39855	+		root (1)	hypothetical protein
+NapTol_Functional_sc_34_19	1100	18077	19177	NapTol_Functional_sc_34	39855	+	3.5.4.26	Firmicutes (1239)	Diaminohydroxyphosphoribosylaminopyrimidine deaminase (EC 3.5.4.26) / 5-amino-6-(5-phosphoribosylamino)uracil reductase 1.1.1.193)
+NapTol_Functional_sc_34_20	638	19214	19852	NapTol_Functional_sc_34	39855	+	2.5.1.9	Bacteria (2)	Riboflavin synthase eubacterial/eukaryotic (EC 2.5.1.9)
+NapTol_Functional_sc_34_21	1244	19854	21098	NapTol_Functional_sc_34	39855	+	4.1.99.12	Clostridia (186801)	3,4-dihydroxy-2-butanone 4-phosphate synthase (EC 4.1.99.12) / GTP cyclohydrolase II 3.5.4.25)
+NapTol_Functional_sc_34_22	476	21082	21558	NapTol_Functional_sc_34	39855	+	2.5.1.78	Firmicutes (1239)	6,7-dimethyl-8-ribityllumazine synthase (EC 2.5.1.78)
+NapTol_Functional_sc_34_23	620	21573	22193	NapTol_Functional_sc_34	39855	-		Bacteria (2)	Acyl-phosphate:glycerol-3-phosphate O-acyltransferase PlsY
+NapTol_Functional_sc_34_24	1010	22274	23284	NapTol_Functional_sc_34	39855	+	1.1.1.94	Firmicutes (1239)	Glycerol-3-phosphate dehydrogenase (EC 1.1.1.94)
+NapTol_Functional_sc_34_25	935	23361	24296	NapTol_Functional_sc_34	39855	-		root (1)	hypothetical protein
+NapTol_Functional_sc_34_26	983	24572	25555	NapTol_Functional_sc_34	39855	-		root (1)	hypothetical protein
+NapTol_Functional_sc_34_27	2519	25578	28097	NapTol_Functional_sc_34	39855	+	6.3.5.5	Bacteria (2)	Carbamoyl-phosphate synthase large chain (EC 6.3.5.5)
+NapTol_Functional_sc_34_28	722	28372	29094	NapTol_Functional_sc_34	39855	-	4.2.1.33	Monera	3-isopropylmalate dehydratase large subunit (EC 4.2.1.33)
+NapTol_Functional_sc_34_29	767	29262	30029	NapTol_Functional_sc_34	39855	+		root (1)	hypothetical protein
+NapTol_Functional_sc_34_30	1226	30026	31252	NapTol_Functional_sc_34	39855	+		root (1)	hypothetical protein
+NapTol_Functional_sc_34_31	689	31261	31950	NapTol_Functional_sc_34	39855	+		root (1)	hypothetical protein
+NapTol_Functional_sc_34_32	989	31947	32936	NapTol_Functional_sc_34	39855	+		root (1)	hypothetical protein
+NapTol_Functional_sc_34_33	482	32986	33468	NapTol_Functional_sc_34	39855	+		root (1)	hypothetical protein
+NapTol_Functional_sc_34_34	1493	33481	34974	NapTol_Functional_sc_34	39855	+		Bacteria (2)	Tricarboxylate transport membrane protein TctA
+NapTol_Functional_sc_34_35	950	35268	36218	NapTol_Functional_sc_34	39855	+	1.1.1.95	Bacteria (2)	D-3-phosphoglycerate dehydrogenase (EC 1.1.1.95)
+NapTol_Functional_sc_34_36	200	36438	36638	NapTol_Functional_sc_34	39855	-		root (1)	hypothetical protein
+NapTol_Functional_sc_34_37	122	36700	36822	NapTol_Functional_sc_34	39855	-		root (1)	hypothetical protein
+NapTol_Functional_sc_34_38	389	36867	37256	NapTol_Functional_sc_34	39855	-		root (1)	hypothetical protein
+NapTol_Functional_sc_34_39	371	37604	37975	NapTol_Functional_sc_34	39855	-		root (1)	hypothetical protein
+NapTol_Functional_sc_34_40	803	37968	38771	NapTol_Functional_sc_34	39855	-		Sphaerochaeta globosa (1131703)	Transposase
+NapTol_Functional_sc_34_41	1016	38758	39774	NapTol_Functional_sc_34	39855	-		root (1)	hypothetical protein
+NapTol_Functional_sc_35_0	1457	131	1588	NapTol_Functional_sc_35	32165	-	6.3.5.5	Bacteria (2)	Carbamoyl-phosphate synthase large chain (EC 6.3.5.5)
+NapTol_Functional_sc_35_1	983	1611	2594	NapTol_Functional_sc_35	32165	+		root (1)	hypothetical protein
+NapTol_Functional_sc_35_2	935	2870	3805	NapTol_Functional_sc_35	32165	+		root (1)	hypothetical protein
+NapTol_Functional_sc_35_3	1010	3882	4892	NapTol_Functional_sc_35	32165	-	1.1.1.94	Firmicutes (1239)	Glycerol-3-phosphate dehydrogenase (EC 1.1.1.94)
+NapTol_Functional_sc_35_4	620	4973	5593	NapTol_Functional_sc_35	32165	+		Bacteria (2)	Acyl-phosphate:glycerol-3-phosphate O-acyltransferase PlsY
+NapTol_Functional_sc_35_5	476	5608	6084	NapTol_Functional_sc_35	32165	-	2.5.1.78	Firmicutes (1239)	6,7-dimethyl-8-ribityllumazine synthase (EC 2.5.1.78)
+NapTol_Functional_sc_35_6	1244	6068	7312	NapTol_Functional_sc_35	32165	-	4.1.99.12	Clostridia (186801)	3,4-dihydroxy-2-butanone 4-phosphate synthase (EC 4.1.99.12) / GTP cyclohydrolase II 3.5.4.25)
+NapTol_Functional_sc_35_7	638	7314	7952	NapTol_Functional_sc_35	32165	-	2.5.1.9	Bacteria (2)	Riboflavin synthase eubacterial/eukaryotic (EC 2.5.1.9)
+NapTol_Functional_sc_35_8	1100	7989	9089	NapTol_Functional_sc_35	32165	-	3.5.4.26	Firmicutes (1239)	Diaminohydroxyphosphoribosylaminopyrimidine deaminase (EC 3.5.4.26) / 5-amino-6-(5-phosphoribosylamino)uracil reductase 1.1.1.193)
+NapTol_Functional_sc_35_9	896	9335	10231	NapTol_Functional_sc_35	32165	-	2.7.13.3	Anaeromyxobacter sp. Fw109-5 (404589)	Sensor protein (EC 2.7.13.3)
+NapTol_Functional_sc_35_10	467	10177	10644	NapTol_Functional_sc_35	32165	-		root (1)	hypothetical protein
+NapTol_Functional_sc_35_11	1622	11143	12765	NapTol_Functional_sc_35	32165	+		root (1)	hypothetical protein
+NapTol_Functional_sc_35_12	641	12768	13409	NapTol_Functional_sc_35	32165	+		Oscillochloris trichoides (104176)	RNA polymerase, sigma-24 subunit, ECF subfamily
+NapTol_Functional_sc_35_13	965	13481	14446	NapTol_Functional_sc_35	32165	+		root (1)	hypothetical protein
+NapTol_Functional_sc_35_14	797	14461	15258	NapTol_Functional_sc_35	32165	+		root (1)	hypothetical protein
+NapTol_Functional_sc_35_15	1259	15369	16628	NapTol_Functional_sc_35	32165	+	6.1.1.21	Bacteria (2)	Histidyl-tRNA synthetase (EC 6.1.1.21)
+NapTol_Functional_sc_35_16	1049	16656	17705	NapTol_Functional_sc_35	32165	+		Bacteria (2)	Peptide chain release factor 1
+NapTol_Functional_sc_35_17	863	17789	18652	NapTol_Functional_sc_35	32165	+		root (1)	hypothetical protein
+NapTol_Functional_sc_35_18	674	18657	19331	NapTol_Functional_sc_35	32165	+		root (1)	hypothetical protein
+NapTol_Functional_sc_35_19	470	19368	19838	NapTol_Functional_sc_35	32165	+	5.3.1.6	Firmicutes (1239)	Ribose 5-phosphate isomerase B (EC 5.3.1.6)
+NapTol_Functional_sc_35_20	254	19918	20172	NapTol_Functional_sc_35	32165	+		root (1)	hypothetical protein
+NapTol_Functional_sc_35_21	1172	20227	21399	NapTol_Functional_sc_35	32165	-	2.6.1.11	Bacteria (2)	Acetylornithine aminotransferase (EC 2.6.1.11)
+NapTol_Functional_sc_35_22	131	21692	21823	NapTol_Functional_sc_35	32165	-		root (1)	hypothetical protein
+NapTol_Functional_sc_35_23	833	21847	22680	NapTol_Functional_sc_35	32165	-	2.7.2.8	Bacteria (2)	Acetylglutamate kinase (EC 2.7.2.8)
+NapTol_Functional_sc_35_24	1226	22694	23920	NapTol_Functional_sc_35	32165	-	2.3.1.35	Bacteria (2)	Glutamate N-acetyltransferase (EC 2.3.1.35) / N-acetylglutamate synthase 2.3.1.1)
+NapTol_Functional_sc_35_25	1019	24015	25034	NapTol_Functional_sc_35	32165	-	1.2.1.38	Bacteria (2)	N-acetyl-gamma-glutamyl-phosphate reductase (EC 1.2.1.38)
+NapTol_Functional_sc_35_26	596	25358	25954	NapTol_Functional_sc_35	32165	-	1.15.1.1	Monera	Superoxide dismutase (EC 1.15.1.1)
+NapTol_Functional_sc_35_27	182	26176	26358	NapTol_Functional_sc_35	32165	-		root (1)	hypothetical protein
+NapTol_Functional_sc_35_28	935	26466	27401	NapTol_Functional_sc_35	32165	+		Bacteria (2)	Cobalt-zinc-cadmium resistance protein CzcD
+NapTol_Functional_sc_35_29	464	27510	27974	NapTol_Functional_sc_35	32165	+		root (1)	hypothetical protein
+NapTol_Functional_sc_35_30	1718	28306	30024	NapTol_Functional_sc_35	32165	+	6.1.1.3	Bacteria (2)	Threonyl-tRNA synthetase (EC 6.1.1.3)
+NapTol_Functional_sc_35_31	470	30198	30668	NapTol_Functional_sc_35	32165	+		Bacteria (2)	Translation initiation factor 3
+NapTol_Functional_sc_35_32	467	30790	31257	NapTol_Functional_sc_35	32165	+		root (1)	hypothetical protein
+NapTol_Functional_sc_35_33	764	31258	32022	NapTol_Functional_sc_35	32165	-		Bacteria (2)	Cell division protein FtsK
+NapTol_Functional_sc_36_0	1265	352	1617	NapTol_Functional_sc_36	34056	+		Thermincola potens (863643)	Type II/IV secretion system ATP hydrolase TadA/VirB11/CpaF, TadA subfamily
+NapTol_Functional_sc_36_1	890	1614	2504	NapTol_Functional_sc_36	34056	+		root (1)	hypothetical protein
+NapTol_Functional_sc_36_2	914	2545	3459	NapTol_Functional_sc_36	34056	+		root (1)	hypothetical protein
+NapTol_Functional_sc_36_3	227	3509	3736	NapTol_Functional_sc_36	34056	+		root (1)	hypothetical protein
+NapTol_Functional_sc_36_4	422	3733	4155	NapTol_Functional_sc_36	34056	+		root (1)	hypothetical protein
+NapTol_Functional_sc_36_5	404	4159	4563	NapTol_Functional_sc_36	34056	+		root (1)	hypothetical protein
+NapTol_Functional_sc_36_6	740	4615	5355	NapTol_Functional_sc_36	34056	+		root (1)	hypothetical protein
+NapTol_Functional_sc_36_7	461	5376	5837	NapTol_Functional_sc_36	34056	+		root (1)	hypothetical protein
+NapTol_Functional_sc_36_8	1223	5946	7169	NapTol_Functional_sc_36	34056	+		Monera	Predicted functional analog homoserine kinase (EC 2.7.1.-)
+NapTol_Functional_sc_36_9	638	7162	7800	NapTol_Functional_sc_36	34056	+		Monera	protein unknown function DUF1121
+NapTol_Functional_sc_36_10	1373	7835	9208	NapTol_Functional_sc_36	34056	+		root (1)	hypothetical protein
+NapTol_Functional_sc_36_11	464	9171	9635	NapTol_Functional_sc_36	34056	-	2.5.1.9	Clostridiales (186802)	6,7-dimethyl-8-ribityllumazine synthase (EC 2.5.1.9)
+NapTol_Functional_sc_36_12	1208	9662	10870	NapTol_Functional_sc_36	34056	-	4.1.99.12	Clostridiales (186802)	3,4-dihydroxy-2-butanone 4-phosphate synthase (EC 4.1.99.12) / GTP cyclohydrolase II 3.5.4.25)
+NapTol_Functional_sc_36_13	653	10918	11571	NapTol_Functional_sc_36	34056	-	2.5.1.9	Clostridiaceae (31979)	Riboflavin synthase eubacterial/eukaryotic (EC 2.5.1.9)
+NapTol_Functional_sc_36_14	1265	11552	12817	NapTol_Functional_sc_36	34056	-	3.5.4.26	Bacteria (2)	Diaminohydroxyphosphoribosylaminopyrimidine deaminase (EC 3.5.4.26) / 5-amino-6-(5-phosphoribosylamino)uracil reductase 1.1.1.193) [Haemophilus
+NapTol_Functional_sc_36_15	584	13000	13584	NapTol_Functional_sc_36	34056	-		root (1)	hypothetical protein
+NapTol_Functional_sc_36_16	1229	13702	14931	NapTol_Functional_sc_36	34056	+		root (1)	hypothetical protein
+NapTol_Functional_sc_36_17	503	15011	15514	NapTol_Functional_sc_36	34056	+		Clostridiales (186802)	HD family hydrolase, diverged
+NapTol_Functional_sc_36_18	1217	15776	16993	NapTol_Functional_sc_36	34056	+	2.6.1.2	Lactobacillales (186826)	Alanine transaminase (EC 2.6.1.2) ## AlaA
+NapTol_Functional_sc_36_19	464	17101	17565	NapTol_Functional_sc_36	34056	+		root (1)	hypothetical protein
+NapTol_Functional_sc_36_20	719	17753	18472	NapTol_Functional_sc_36	34056	+		Bacteria (2)	Ferredoxin 3 fused to uncharacterized domain
+NapTol_Functional_sc_36_21	806	18612	19418	NapTol_Functional_sc_36	34056	+	4.1.1.50	Bacteria (2)	S-adenosylmethionine decarboxylase proenzyme (EC 4.1.1.50), prokaryotic class 1A
+NapTol_Functional_sc_36_22	1454	19429	20883	NapTol_Functional_sc_36	34056	+	4.1.1.19	Firmicutes (1239)	Arginine decarboxylase (EC 4.1.1.19)
+NapTol_Functional_sc_36_23	854	20885	21739	NapTol_Functional_sc_36	34056	+	2.5.1.16	Firmicutes (1239)	Spermidine synthase (EC 2.5.1.16)
+NapTol_Functional_sc_36_24	851	21726	22577	NapTol_Functional_sc_36	34056	+	3.5.3.11	Firmicutes (1239)	Agmatinase (EC 3.5.3.11)
+NapTol_Functional_sc_36_25	194	22675	22869	NapTol_Functional_sc_36	34056	-		root (1)	hypothetical protein
+NapTol_Functional_sc_36_26	1151	23101	24252	NapTol_Functional_sc_36	34056	+		Clostridiales (186802)	Exonuclease SbcD
+NapTol_Functional_sc_36_27	3143	24249	27392	NapTol_Functional_sc_36	34056	+		Peptococcaceae (186807)	Exonuclease SbcC
+NapTol_Functional_sc_36_28	509	27461	27970	NapTol_Functional_sc_36	34056	+		Bacillus sp. 1NLA3E (666686)	flavodoxin
+NapTol_Functional_sc_36_29	353	27987	28340	NapTol_Functional_sc_36	34056	+		Bacteria (2)	Uncharacterized conserved protein
+NapTol_Functional_sc_36_30	1598	28374	29972	NapTol_Functional_sc_36	34056	+		Peptococcaceae (186807)	Two-component sensor histidine kinase
+NapTol_Functional_sc_36_31	1463	29998	31461	NapTol_Functional_sc_36	34056	+		Firmicutes (1239)	transcriptional regulator
+NapTol_Functional_sc_36_32	875	31700	32575	NapTol_Functional_sc_36	34056	+	1.17.1.4	Bacteria (2)	Xanthine dehydrogenase, FAD binding subunit (EC 1.17.1.4)
+NapTol_Functional_sc_36_33	473	32597	33070	NapTol_Functional_sc_36	34056	+	1.17.1.4	Bacteria (2)	Xanthine dehydrogenase iron-sulfur subunit (EC 1.17.1.4)
+NapTol_Functional_sc_36_34	824	33230	34054	NapTol_Functional_sc_36	34056	-		Bacilli (91061)	Transposase, IS111A/IS1328/IS1533:Transposase IS116/IS110/IS902
+NapTol_Functional_sc_37_0	272	2	274	NapTol_Functional_sc_37	24310	+		root (1)	hypothetical protein
+NapTol_Functional_sc_37_1	797	289	1086	NapTol_Functional_sc_37	24310	+		root (1)	hypothetical protein
+NapTol_Functional_sc_37_2	1259	1197	2456	NapTol_Functional_sc_37	24310	+	6.1.1.21	Bacteria (2)	Histidyl-tRNA synthetase (EC 6.1.1.21)
+NapTol_Functional_sc_37_3	1049	2484	3533	NapTol_Functional_sc_37	24310	+		Bacteria (2)	Peptide chain release factor 1
+NapTol_Functional_sc_37_4	863	3617	4480	NapTol_Functional_sc_37	24310	+		root (1)	hypothetical protein
+NapTol_Functional_sc_37_5	674	4485	5159	NapTol_Functional_sc_37	24310	+		root (1)	hypothetical protein
+NapTol_Functional_sc_37_6	470	5196	5666	NapTol_Functional_sc_37	24310	+	5.3.1.6	Firmicutes (1239)	Ribose 5-phosphate isomerase B (EC 5.3.1.6)
+NapTol_Functional_sc_37_7	254	5746	6000	NapTol_Functional_sc_37	24310	+		root (1)	hypothetical protein
+NapTol_Functional_sc_37_8	1172	6055	7227	NapTol_Functional_sc_37	24310	-	2.6.1.11	Bacteria (2)	Acetylornithine aminotransferase (EC 2.6.1.11)
+NapTol_Functional_sc_37_9	131	7520	7651	NapTol_Functional_sc_37	24310	-		root (1)	hypothetical protein
+NapTol_Functional_sc_37_10	833	7675	8508	NapTol_Functional_sc_37	24310	-	2.7.2.8	Bacteria (2)	Acetylglutamate kinase (EC 2.7.2.8)
+NapTol_Functional_sc_37_11	1226	8522	9748	NapTol_Functional_sc_37	24310	-	2.3.1.35	Bacteria (2)	Glutamate N-acetyltransferase (EC 2.3.1.35) / N-acetylglutamate synthase 2.3.1.1)
+NapTol_Functional_sc_37_12	1019	9843	10862	NapTol_Functional_sc_37	24310	-	1.2.1.38	Bacteria (2)	N-acetyl-gamma-glutamyl-phosphate reductase (EC 1.2.1.38)
+NapTol_Functional_sc_37_13	596	11186	11782	NapTol_Functional_sc_37	24310	-	1.15.1.1	Monera	Superoxide dismutase (EC 1.15.1.1)
+NapTol_Functional_sc_37_14	182	12004	12186	NapTol_Functional_sc_37	24310	-		root (1)	hypothetical protein
+NapTol_Functional_sc_37_15	935	12294	13229	NapTol_Functional_sc_37	24310	+		Bacteria (2)	Cobalt-zinc-cadmium resistance protein CzcD
+NapTol_Functional_sc_37_16	506	13296	13802	NapTol_Functional_sc_37	24310	+		root (1)	hypothetical protein
+NapTol_Functional_sc_37_17	1718	14134	15852	NapTol_Functional_sc_37	24310	+	6.1.1.3	Bacteria (2)	Threonyl-tRNA synthetase (EC 6.1.1.3)
+NapTol_Functional_sc_37_18	470	16026	16496	NapTol_Functional_sc_37	24310	+		Bacteria (2)	Translation initiation factor 3
+NapTol_Functional_sc_37_19	467	16618	17085	NapTol_Functional_sc_37	24310	+		root (1)	hypothetical protein
+NapTol_Functional_sc_37_20	2072	17086	19158	NapTol_Functional_sc_37	24310	-		Chloroflexus aggregans (152260)	Cell division protein FtsK
+NapTol_Functional_sc_37_21	1658	19310	20968	NapTol_Functional_sc_37	24310	-		Firmicutes (1239)	Zn-dependent hydrolase, RNA-metabolising, CPSF 100 kDa analog
+NapTol_Functional_sc_37_22	611	21039	21650	NapTol_Functional_sc_37	24310	-		Monera	Uracil-DNA glycosylase, family 4
+NapTol_Functional_sc_37_23	386	21875	22261	NapTol_Functional_sc_37	24310	+		root (1)	hypothetical protein
+NapTol_Functional_sc_37_24	416	22327	22743	NapTol_Functional_sc_37	24310	+		Bacteria (2)	Single-stranded DNA-binding protein
+NapTol_Functional_sc_37_25	1034	23230	24264	NapTol_Functional_sc_37	24310	+		root (1)	hypothetical protein
+NapTol_Functional_sc_30_0	689	135	824	NapTol_Functional_sc_30	31609	+		Bacteria (2)	Putative preQ0 transporter
+NapTol_Functional_sc_30_1	401	824	1225	NapTol_Functional_sc_30	31609	+	1.7.1.13	Bacteria (2)	NADPH dependent preQ0 reductase (EC 1.7.1.13)
+NapTol_Functional_sc_30_2	1106	1510	2616	NapTol_Functional_sc_30	31609	+	3.5.4.26	Clostridia (186801)	Diaminohydroxyphosphoribosylaminopyrimidine deaminase (EC 3.5.4.26) / 5-amino-6-(5-phosphoribosylamino)uracil reductase 1.1.1.193)
+NapTol_Functional_sc_30_3	668	2601	3269	NapTol_Functional_sc_30	31609	+	2.5.1.9	Bacteria (2)	Riboflavin synthase eubacterial/eukaryotic (EC 2.5.1.9) [Haemophilus
+NapTol_Functional_sc_30_4	1241	3269	4510	NapTol_Functional_sc_30	31609	+	4.1.99.12	Firmicutes (1239)	3,4-dihydroxy-2-butanone 4-phosphate synthase (EC 4.1.99.12) / GTP cyclohydrolase II 3.5.4.25)
+NapTol_Functional_sc_30_5	467	4507	4974	NapTol_Functional_sc_30	31609	+	2.5.1.78	Bacteria (2)	6,7-dimethyl-8-ribityllumazine synthase (EC 2.5.1.78)
+NapTol_Functional_sc_30_6	1298	5296	6594	NapTol_Functional_sc_30	31609	+	4.1.99.17	Bacteria (2)	Hydroxymethylpyrimidine phosphate synthase ThiC (EC 4.1.99.17)
+NapTol_Functional_sc_30_7	818	6584	7402	NapTol_Functional_sc_30	31609	+	2.7.4.7	Bacteria (2)	Hydroxymethylpyrimidine phosphate kinase ThiD (EC 2.7.4.7)
+NapTol_Functional_sc_30_8	824	7399	8223	NapTol_Functional_sc_30	31609	+	2.7.1.50	Bacteria (2)	Hydroxyethylthiazole kinase (EC 2.7.1.50)
+NapTol_Functional_sc_30_9	626	8210	8836	NapTol_Functional_sc_30	31609	+	2.5.1.3	Treponema caldaria (215591)	Thiamin-phosphate pyrophosphorylase (EC 2.5.1.3)
+NapTol_Functional_sc_30_10	788	8842	9630	NapTol_Functional_sc_30	31609	+		Treponema caldaria (215591)	Haloacid dehalogenase domain-containing protein hydrolase
+NapTol_Functional_sc_30_11	1694	9906	11600	NapTol_Functional_sc_30	31609	+		Bacteria (2)	von Willebrand factor type A domain protein
+NapTol_Functional_sc_30_12	878	11631	12509	NapTol_Functional_sc_30	31609	-		root (1)	hypothetical protein
+NapTol_Functional_sc_30_13	2135	12526	14661	NapTol_Functional_sc_30	31609	-	1.17.4.2	Bacteria (2)	Ribonucleotide reductase class III (anaerobic), large subunit (EC 1.17.4.2)
+NapTol_Functional_sc_30_14	350	15070	15420	NapTol_Functional_sc_30	31609	-		root (1)	hypothetical protein
+NapTol_Functional_sc_30_15	1568	15438	17006	NapTol_Functional_sc_30	31609	-		Treponema caldaria (215591)	Polyferredoxin NapH (periplasmic nitrate reductase)
+NapTol_Functional_sc_30_16	1358	17186	18544	NapTol_Functional_sc_30	31609	-	3.2.1.22	Bacteria (2)	Alpha-galactosidase (EC 3.2.1.22)
+NapTol_Functional_sc_30_17	989	18619	19608	NapTol_Functional_sc_30	31609	-		Treponema caldaria (215591)	LacI family transcriptional regulator
+NapTol_Functional_sc_30_18	2429	19810	22239	NapTol_Functional_sc_30	31609	+		root (1)	hypothetical protein
+NapTol_Functional_sc_30_19	1247	22251	23498	NapTol_Functional_sc_30	31609	+		root (1)	hypothetical protein
+NapTol_Functional_sc_30_20	890	23576	24466	NapTol_Functional_sc_30	31609	+		Firmicutes (1239)	N-Acetyl-D-glucosamine ABC transport system, permease protein 1
+NapTol_Functional_sc_30_21	827	24463	25290	NapTol_Functional_sc_30	31609	+		Bacteria (2)	SN-glycerol-3-phosphate transport system permease protein UgpE (TC 3.A.1.1.3)
+NapTol_Functional_sc_30_22	680	25295	25975	NapTol_Functional_sc_30	31609	+		root (1)	hypothetical protein
+NapTol_Functional_sc_30_23	1826	25972	27798	NapTol_Functional_sc_30	31609	+		root (1)	hypothetical protein
+NapTol_Functional_sc_30_24	1427	27816	29243	NapTol_Functional_sc_30	31609	-		root (1)	hypothetical protein
+NapTol_Functional_sc_30_25	704	29247	29951	NapTol_Functional_sc_30	31609	-		Bacteria (2)	two component heavy metal response transcriptional regulator, winged helix family
+NapTol_Functional_sc_30_26	335	30061	30396	NapTol_Functional_sc_30	31609	-		root (1)	hypothetical protein
+NapTol_Functional_sc_30_27	1013	30596	31609	NapTol_Functional_sc_30	31609	-		root (1)	hypothetical protein
+NapTol_Functional_sc_31_0	287	89	376	NapTol_Functional_sc_31	11862	+		Clostridia (186801)	CopG family transcripitonal regulator
+NapTol_Functional_sc_31_1	1385	348	1733	NapTol_Functional_sc_31	11862	+		Bacteria (2)	Thiazole biosynthesis protein ThiH
+NapTol_Functional_sc_31_2	1037	1730	2767	NapTol_Functional_sc_31	11862	+		Bacteria (2)	Biotin synthase related enzymes
+NapTol_Functional_sc_31_3	1349	2757	4106	NapTol_Functional_sc_31	11862	+	4.3.1.1	Spirochaetaceae (137)	Aspartate ammonia-lyase (EC 4.3.1.1)
+NapTol_Functional_sc_31_4	1271	4116	5387	NapTol_Functional_sc_31	11862	+		Bacteria (2)	Putative GTP-binding protien TM0445
+NapTol_Functional_sc_31_5	1154	5541	6695	NapTol_Functional_sc_31	11862	+		Monera	Ferredoxin oxidoreductase
+NapTol_Functional_sc_31_6	410	6692	7102	NapTol_Functional_sc_31	11862	+		Bacteria (2)	NIL domain-containing protein
+NapTol_Functional_sc_31_7	800	7106	7906	NapTol_Functional_sc_31	11862	+		root (1)	hypothetical protein
+NapTol_Functional_sc_31_8	3740	7833	11573	NapTol_Functional_sc_31	11862	-	2.1.1.13	Proteobacteria (1224)	5-methyltetrahydrofolate--homocysteine methyltransferase (EC 2.1.1.13)
+NapTol_Functional_sc_31_9	290	11570	11860	NapTol_Functional_sc_31	11862	-	1.5.1.20	Bacteria (2)	5,10-methylenetetrahydrofolate reductase (EC 1.5.1.20)
+NapTol_Functional_sc_32_0	689	135	824	NapTol_Functional_sc_32	30201	+		Bacteria (2)	Putative preQ0 transporter
+NapTol_Functional_sc_32_1	401	824	1225	NapTol_Functional_sc_32	30201	+	1.7.1.13	Bacteria (2)	NADPH dependent preQ0 reductase (EC 1.7.1.13)
+NapTol_Functional_sc_32_2	1106	1510	2616	NapTol_Functional_sc_32	30201	+	3.5.4.26	Clostridia (186801)	Diaminohydroxyphosphoribosylaminopyrimidine deaminase (EC 3.5.4.26) / 5-amino-6-(5-phosphoribosylamino)uracil reductase 1.1.1.193)
+NapTol_Functional_sc_32_3	668	2601	3269	NapTol_Functional_sc_32	30201	+	2.5.1.9	Bacteria (2)	Riboflavin synthase eubacterial/eukaryotic (EC 2.5.1.9) [Haemophilus
+NapTol_Functional_sc_32_4	1241	3269	4510	NapTol_Functional_sc_32	30201	+	4.1.99.12	Firmicutes (1239)	3,4-dihydroxy-2-butanone 4-phosphate synthase (EC 4.1.99.12) / GTP cyclohydrolase II 3.5.4.25)
+NapTol_Functional_sc_32_5	467	4507	4974	NapTol_Functional_sc_32	30201	+	2.5.1.78	Bacteria (2)	6,7-dimethyl-8-ribityllumazine synthase (EC 2.5.1.78)
+NapTol_Functional_sc_32_6	1298	5296	6594	NapTol_Functional_sc_32	30201	+	4.1.99.17	Bacteria (2)	Hydroxymethylpyrimidine phosphate synthase ThiC (EC 4.1.99.17)
+NapTol_Functional_sc_32_7	818	6584	7402	NapTol_Functional_sc_32	30201	+	2.7.4.7	Bacteria (2)	Hydroxymethylpyrimidine phosphate kinase ThiD (EC 2.7.4.7)
+NapTol_Functional_sc_32_8	824	7399	8223	NapTol_Functional_sc_32	30201	+	2.7.1.50	Bacteria (2)	Hydroxyethylthiazole kinase (EC 2.7.1.50)
+NapTol_Functional_sc_32_9	626	8210	8836	NapTol_Functional_sc_32	30201	+	2.5.1.3	Treponema caldaria (215591)	Thiamin-phosphate pyrophosphorylase (EC 2.5.1.3)
+NapTol_Functional_sc_32_10	788	8842	9630	NapTol_Functional_sc_32	30201	+		Treponema caldaria (215591)	Haloacid dehalogenase domain-containing protein hydrolase
+NapTol_Functional_sc_32_11	1694	9906	11600	NapTol_Functional_sc_32	30201	+		Bacteria (2)	von Willebrand factor type A domain protein
+NapTol_Functional_sc_32_12	878	11631	12509	NapTol_Functional_sc_32	30201	-		root (1)	hypothetical protein
+NapTol_Functional_sc_32_13	2135	12526	14661	NapTol_Functional_sc_32	30201	-	1.17.4.2	Bacteria (2)	Ribonucleotide reductase class III (anaerobic), large subunit (EC 1.17.4.2)
+NapTol_Functional_sc_32_14	350	15070	15420	NapTol_Functional_sc_32	30201	-		root (1)	hypothetical protein
+NapTol_Functional_sc_32_15	1568	15438	17006	NapTol_Functional_sc_32	30201	-		Treponema caldaria (215591)	Polyferredoxin NapH (periplasmic nitrate reductase)
+NapTol_Functional_sc_32_16	1358	17186	18544	NapTol_Functional_sc_32	30201	-	3.2.1.22	Bacteria (2)	Alpha-galactosidase (EC 3.2.1.22)
+NapTol_Functional_sc_32_17	989	18619	19608	NapTol_Functional_sc_32	30201	-		Treponema caldaria (215591)	LacI family transcriptional regulator
+NapTol_Functional_sc_32_18	2429	19810	22239	NapTol_Functional_sc_32	30201	+		root (1)	hypothetical protein
+NapTol_Functional_sc_32_19	1247	22251	23498	NapTol_Functional_sc_32	30201	+		root (1)	hypothetical protein
+NapTol_Functional_sc_32_20	827	24462	25289	NapTol_Functional_sc_32	30201	+		Bacteria (2)	SN-glycerol-3-phosphate transport system permease protein UgpE (TC 3.A.1.1.3)
+NapTol_Functional_sc_32_21	680	25294	25974	NapTol_Functional_sc_32	30201	+		root (1)	hypothetical protein
+NapTol_Functional_sc_32_22	1826	25971	27797	NapTol_Functional_sc_32	30201	+		root (1)	hypothetical protein
+NapTol_Functional_sc_32_23	1427	27815	29242	NapTol_Functional_sc_32	30201	-		root (1)	hypothetical protein
+NapTol_Functional_sc_32_24	704	29246	29950	NapTol_Functional_sc_32	30201	-		Bacteria (2)	two component heavy metal response transcriptional regulator, winged helix family
+NapTol_Functional_sc_32_25	140	30060	30200	NapTol_Functional_sc_32	30201	-		root (1)	hypothetical protein
+NapTol_Functional_sc_33_0	971	186	1157	NapTol_Functional_sc_33	41971	-		Enterobacteriaceae (543)	Chromosome (plasmid) partitioning protein ParB
+NapTol_Functional_sc_33_1	1166	1157	2323	NapTol_Functional_sc_33	41971	-		Enterobacteriaceae (543)	Chromosome (plasmid) partitioning protein ParA
+NapTol_Functional_sc_33_2	755	2911	3666	NapTol_Functional_sc_33	41971	-		Enterobacteriaceae (543)	Replication initiation protein RepE
+NapTol_Functional_sc_33_3	512	5061	5573	NapTol_Functional_sc_33	41971	-		Escherichia coli (562)	Resolvase
+NapTol_Functional_sc_33_4	659	5627	6286	NapTol_Functional_sc_33	41971	+	2.3.1.28	Bacteria (2)	Chloramphenicol acetyltransferase 3 (EC 2.3.1.28) (Chloramphenicol III) (catIII)
+NapTol_Functional_sc_33_5	821	6707	7528	NapTol_Functional_sc_33	41971	+		Bacilli (91061)	Transposase, IS111A/IS1328/IS1533:Transposase IS116/IS110/IS902
+NapTol_Functional_sc_33_6	473	7688	8161	NapTol_Functional_sc_33	41971	-	1.17.1.4	Bacteria (2)	Xanthine dehydrogenase iron-sulfur subunit (EC 1.17.1.4)
+NapTol_Functional_sc_33_7	875	8183	9058	NapTol_Functional_sc_33	41971	-	1.17.1.4	Bacteria (2)	Xanthine dehydrogenase, FAD binding subunit (EC 1.17.1.4)
+NapTol_Functional_sc_33_8	1463	9297	10760	NapTol_Functional_sc_33	41971	-		Firmicutes (1239)	transcriptional regulator
+NapTol_Functional_sc_33_9	1598	10786	12384	NapTol_Functional_sc_33	41971	-		Peptococcaceae (186807)	Two-component sensor histidine kinase
+NapTol_Functional_sc_33_10	353	12418	12771	NapTol_Functional_sc_33	41971	-		Bacteria (2)	Uncharacterized conserved protein
+NapTol_Functional_sc_33_11	509	12788	13297	NapTol_Functional_sc_33	41971	-		Bacillus sp. 1NLA3E (666686)	flavodoxin
+NapTol_Functional_sc_33_12	3143	13366	16509	NapTol_Functional_sc_33	41971	-		Peptococcaceae (186807)	Exonuclease SbcC
+NapTol_Functional_sc_33_13	1151	16506	17657	NapTol_Functional_sc_33	41971	-		Clostridiales (186802)	Exonuclease SbcD
+NapTol_Functional_sc_33_14	194	17889	18083	NapTol_Functional_sc_33	41971	+		root (1)	hypothetical protein
+NapTol_Functional_sc_33_15	851	18181	19032	NapTol_Functional_sc_33	41971	-	3.5.3.11	Firmicutes (1239)	Agmatinase (EC 3.5.3.11)
+NapTol_Functional_sc_33_16	854	19019	19873	NapTol_Functional_sc_33	41971	-	2.5.1.16	Firmicutes (1239)	Spermidine synthase (EC 2.5.1.16)
+NapTol_Functional_sc_33_17	1454	19875	21329	NapTol_Functional_sc_33	41971	-	4.1.1.19	Firmicutes (1239)	Arginine decarboxylase (EC 4.1.1.19)
+NapTol_Functional_sc_33_18	806	21340	22146	NapTol_Functional_sc_33	41971	-	4.1.1.50	Bacteria (2)	S-adenosylmethionine decarboxylase proenzyme (EC 4.1.1.50), prokaryotic class 1A
+NapTol_Functional_sc_33_19	719	22286	23005	NapTol_Functional_sc_33	41971	-		Bacteria (2)	Ferredoxin 3 fused to uncharacterized domain
+NapTol_Functional_sc_33_20	464	23193	23657	NapTol_Functional_sc_33	41971	-		root (1)	hypothetical protein
+NapTol_Functional_sc_33_21	1217	23765	24982	NapTol_Functional_sc_33	41971	-	2.6.1.2	Lactobacillales (186826)	Alanine transaminase (EC 2.6.1.2) ## AlaA
+NapTol_Functional_sc_33_22	503	25244	25747	NapTol_Functional_sc_33	41971	-		Clostridiales (186802)	HD family hydrolase, diverged
+NapTol_Functional_sc_33_23	1229	25827	27056	NapTol_Functional_sc_33	41971	-		root (1)	hypothetical protein
+NapTol_Functional_sc_33_24	584	27174	27758	NapTol_Functional_sc_33	41971	+		root (1)	hypothetical protein
+NapTol_Functional_sc_33_25	1265	27941	29206	NapTol_Functional_sc_33	41971	+	3.5.4.26	Bacteria (2)	Diaminohydroxyphosphoribosylaminopyrimidine deaminase (EC 3.5.4.26) / 5-amino-6-(5-phosphoribosylamino)uracil reductase 1.1.1.193) [Haemophilus
+NapTol_Functional_sc_33_26	653	29187	29840	NapTol_Functional_sc_33	41971	+	2.5.1.9	Clostridiaceae (31979)	Riboflavin synthase eubacterial/eukaryotic (EC 2.5.1.9)
+NapTol_Functional_sc_33_27	1208	29888	31096	NapTol_Functional_sc_33	41971	+	4.1.99.12	Clostridiales (186802)	3,4-dihydroxy-2-butanone 4-phosphate synthase (EC 4.1.99.12) / GTP cyclohydrolase II 3.5.4.25)
+NapTol_Functional_sc_33_28	464	31123	31587	NapTol_Functional_sc_33	41971	+	2.5.1.9	Clostridiales (186802)	6,7-dimethyl-8-ribityllumazine synthase (EC 2.5.1.9)
+NapTol_Functional_sc_33_29	1373	31550	32923	NapTol_Functional_sc_33	41971	-		root (1)	hypothetical protein
+NapTol_Functional_sc_33_30	638	32958	33596	NapTol_Functional_sc_33	41971	-		Monera	protein unknown function DUF1121
+NapTol_Functional_sc_33_31	1223	33589	34812	NapTol_Functional_sc_33	41971	-		Monera	Predicted functional analog homoserine kinase (EC 2.7.1.-)
+NapTol_Functional_sc_33_32	461	34921	35382	NapTol_Functional_sc_33	41971	-		root (1)	hypothetical protein
+NapTol_Functional_sc_33_33	740	35403	36143	NapTol_Functional_sc_33	41971	-		root (1)	hypothetical protein
+NapTol_Functional_sc_33_34	404	36195	36599	NapTol_Functional_sc_33	41971	-		root (1)	hypothetical protein
+NapTol_Functional_sc_33_35	422	36603	37025	NapTol_Functional_sc_33	41971	-		root (1)	hypothetical protein
+NapTol_Functional_sc_33_36	227	37022	37249	NapTol_Functional_sc_33	41971	-		root (1)	hypothetical protein
+NapTol_Functional_sc_33_37	914	37299	38213	NapTol_Functional_sc_33	41971	-		root (1)	hypothetical protein
+NapTol_Functional_sc_33_38	890	38254	39144	NapTol_Functional_sc_33	41971	-		root (1)	hypothetical protein
+NapTol_Functional_sc_33_39	1265	39141	40406	NapTol_Functional_sc_33	41971	-		Thermincola potens (863643)	Type II/IV secretion system ATP hydrolase TadA/VirB11/CpaF, TadA subfamily
+NapTol_Functional_sc_33_40	506	40547	41053	NapTol_Functional_sc_33	41971	+		root (1)	glycosyl transferase protein, family 1 [ (GT4)
+NapTol_Functional_sc_40_0	2234	2	2236	NapTol_Functional_sc_40	14477	-	6.3.5.5	Bacteria (2)	Carbamoyl-phosphate synthase large chain (EC 6.3.5.5)
+NapTol_Functional_sc_40_1	983	2259	3242	NapTol_Functional_sc_40	14477	+		root (1)	hypothetical protein
+NapTol_Functional_sc_40_2	935	3518	4453	NapTol_Functional_sc_40	14477	+		root (1)	hypothetical protein
+NapTol_Functional_sc_40_3	1010	4530	5540	NapTol_Functional_sc_40	14477	-	1.1.1.94	Firmicutes (1239)	Glycerol-3-phosphate dehydrogenase (EC 1.1.1.94)
+NapTol_Functional_sc_40_4	620	5621	6241	NapTol_Functional_sc_40	14477	+		Bacteria (2)	Acyl-phosphate:glycerol-3-phosphate O-acyltransferase PlsY
+NapTol_Functional_sc_40_5	476	6256	6732	NapTol_Functional_sc_40	14477	-	2.5.1.78	Firmicutes (1239)	6,7-dimethyl-8-ribityllumazine synthase (EC 2.5.1.78)
+NapTol_Functional_sc_40_6	1244	6716	7960	NapTol_Functional_sc_40	14477	-	4.1.99.12	Clostridia (186801)	3,4-dihydroxy-2-butanone 4-phosphate synthase (EC 4.1.99.12) / GTP cyclohydrolase II 3.5.4.25)
+NapTol_Functional_sc_40_7	638	7962	8600	NapTol_Functional_sc_40	14477	-	2.5.1.9	Bacteria (2)	Riboflavin synthase eubacterial/eukaryotic (EC 2.5.1.9)
+NapTol_Functional_sc_40_8	1100	8637	9737	NapTol_Functional_sc_40	14477	-	3.5.4.26	Firmicutes (1239)	Diaminohydroxyphosphoribosylaminopyrimidine deaminase (EC 3.5.4.26) / 5-amino-6-(5-phosphoribosylamino)uracil reductase 1.1.1.193)
+NapTol_Functional_sc_40_9	1310	9983	11293	NapTol_Functional_sc_40	14477	-		root (1)	hypothetical protein
+NapTol_Functional_sc_40_10	1622	11792	13414	NapTol_Functional_sc_40	14477	+		root (1)	hypothetical protein
+NapTol_Functional_sc_40_11	641	13417	14058	NapTol_Functional_sc_40	14477	+		Oscillochloris trichoides (104176)	RNA polymerase, sigma-24 subunit, ECF subfamily
+NapTol_Functional_sc_40_12	407	14070	14477	NapTol_Functional_sc_40	14477	+		root (1)	hypothetical protein
+NapTol_Functional_sc_8_0	455	1	456	NapTol_Functional_sc_8	9420	-		Syntrophus aciditrophicus (316277)	cytoplasmic protein
+NapTol_Functional_sc_8_1	974	525	1499	NapTol_Functional_sc_8	9420	-		root (1)	hypothetical protein
+NapTol_Functional_sc_8_2	527	1902	2429	NapTol_Functional_sc_8	9420	+		Gammaproteobacteria (1236)	hypothetical protein
+NapTol_Functional_sc_8_3	725	2534	3259	NapTol_Functional_sc_8	9420	+		root (1)	hypothetical protein
+NapTol_Functional_sc_8_4	980	3217	4197	NapTol_Functional_sc_8	9420	-		Bacteria (2)	transposase, IS4
+NapTol_Functional_sc_8_5	677	4369	5046	NapTol_Functional_sc_8	9420	-		root (1)	hypothetical protein
+NapTol_Functional_sc_8_6	1412	5030	6442	NapTol_Functional_sc_8	9420	-		root (1)	hypothetical protein
+NapTol_Functional_sc_8_7	104	6655	6759	NapTol_Functional_sc_8	9420	-		root (1)	hypothetical protein
+NapTol_Functional_sc_8_8	224	7021	7245	NapTol_Functional_sc_8	9420	-		root (1)	hypothetical protein
+NapTol_Functional_sc_8_9	668	7190	7858	NapTol_Functional_sc_8	9420	-		Bacteria (2)	transposase, IS4
+NapTol_Functional_sc_8_10	401	7962	8363	NapTol_Functional_sc_8	9420	+		root (1)	hypothetical protein
+NapTol_Functional_sc_8_11	692	8470	9162	NapTol_Functional_sc_8	9420	+		root (1)	hypothetical protein
+NapTol_Functional_sc_8_12	161	9201	9362	NapTol_Functional_sc_8	9420	+		root (1)	hypothetical protein
+NapTol_Functional_sc_9_0	1571	2	1573	NapTol_Functional_sc_9	29369	+	2.7.7.25	Peptococcaceae (186807)	tRNA nucleotidyltransferase, A-adding (EC 2.7.7.25)
+NapTol_Functional_sc_9_1	593	1612	2205	NapTol_Functional_sc_9	29369	+		Clostridia (186801)	FIG004556: membrane metalloprotease
+NapTol_Functional_sc_9_2	992	2256	3248	NapTol_Functional_sc_9	29369	+	6.1.1.2	Bacteria (2)	Tryptophanyl-tRNA synthetase (EC 6.1.1.2)
+NapTol_Functional_sc_9_3	983	3433	4416	NapTol_Functional_sc_9	29369	+		Clostridia (186801)	Cobalt-zinc-cadmium resistance protein
+NapTol_Functional_sc_9_4	3974	4472	8446	NapTol_Functional_sc_9	29369	+		Peptococcaceae (186807)	ATP-dependent nuclease, subunit A
+NapTol_Functional_sc_9_5	143	8886	9029	NapTol_Functional_sc_9	29369	+		root (1)	hypothetical protein
+NapTol_Functional_sc_9_6	1178	9541	10719	NapTol_Functional_sc_9	29369	+		Bacteria (2)	thiolase
+NapTol_Functional_sc_9_7	2564	11489	14053	NapTol_Functional_sc_9	29369	+	3.6.3.3	Firmicutes (1239)	Lead, cadmium, zinc mercury transporting ATPase (EC 3.6.3.3) 3.6.3.5) Copper-translocating P-type 3.6.3.4)
+NapTol_Functional_sc_9_8	146	14165	14311	NapTol_Functional_sc_9	29369	+		root (1)	hypothetical protein
+NapTol_Functional_sc_9_9	221	14485	14706	NapTol_Functional_sc_9	29369	-		Desulfotomaculum kuznetsovii (58135)	secretion protein HlyD family
+NapTol_Functional_sc_9_10	3143	14790	17933	NapTol_Functional_sc_9	29369	-		Clostridia (186801)	RND multidrug efflux transporter Acriflavin resistance protein
+NapTol_Functional_sc_9_11	1238	18121	19359	NapTol_Functional_sc_9	29369	-		Desulfotomaculum kuznetsovii (58135)	Probable Co/Zn/Cd efflux system membrane fusion protein
+NapTol_Functional_sc_9_12	476	19426	19902	NapTol_Functional_sc_9	29369	-		Peptococcaceae (186807)	MarR family transcriptional regulator
+NapTol_Functional_sc_9_13	293	19998	20291	NapTol_Functional_sc_9	29369	-		root (1)	hypothetical protein
+NapTol_Functional_sc_9_14	188	20981	21169	NapTol_Functional_sc_9	29369	-		root (1)	hypothetical protein
+NapTol_Functional_sc_9_15	656	21586	22242	NapTol_Functional_sc_9	29369	+		Clostridia (186801)	GntR family transcriptional regulator
+NapTol_Functional_sc_9_16	1091	22654	23745	NapTol_Functional_sc_9	29369	+	3.5.4.26	Bacteria (2)	Diaminohydroxyphosphoribosylaminopyrimidine deaminase (EC 3.5.4.26) / 5-amino-6-(5-phosphoribosylamino)uracil reductase 1.1.1.193)
+NapTol_Functional_sc_9_17	653	23787	24440	NapTol_Functional_sc_9	29369	+	2.5.1.9	Bacteria (2)	Riboflavin synthase eubacterial/eukaryotic (EC 2.5.1.9)
+NapTol_Functional_sc_9_18	1217	24474	25691	NapTol_Functional_sc_9	29369	+	4.1.99.12	Firmicutes (1239)	3,4-dihydroxy-2-butanone 4-phosphate synthase (EC 4.1.99.12) / GTP cyclohydrolase II 3.5.4.25)
+NapTol_Functional_sc_9_19	464	25732	26196	NapTol_Functional_sc_9	29369	+	2.5.1.78	Firmicutes (1239)	6,7-dimethyl-8-ribityllumazine synthase (EC 2.5.1.78)
+NapTol_Functional_sc_9_20	1040	26368	27408	NapTol_Functional_sc_9	29369	+	2.4.2.11	Monera	Nicotinate phosphoribosyltransferase (EC 2.4.2.11)
+NapTol_Functional_sc_9_21	1367	27703	29070	NapTol_Functional_sc_9	29369	+		Clostridia (186801)	ATP-dependent DNA helicase RecG (EC 3.6.1.-)
+NapTol_Functional_sc_4_0	1388	3	1391	NapTol_Functional_sc_4	12684	-		Methanomicrobia (224756)	transposase
+NapTol_Functional_sc_4_1	203	1608	1811	NapTol_Functional_sc_4	12684	+		root (1)	hypothetical protein
+NapTol_Functional_sc_4_2	1187	1748	2935	NapTol_Functional_sc_4	12684	-		Methanomicrobia (224756)	Transposase
+NapTol_Functional_sc_4_3	677	3484	4161	NapTol_Functional_sc_4	12684	-	4.1.99.12	Euryarchaeota (28890)	3,4-dihydroxy-2-butanone 4-phosphate synthase (EC 4.1.99.12)
+NapTol_Functional_sc_4_4	668	4154	4822	NapTol_Functional_sc_4	12684	-	2.7.1.161	Methanomicrobiales (2191)	DNA-binding HTH domain riboflavin kinase / CTP-dependent archaeal (EC 2.7.1.161)
+NapTol_Functional_sc_4_5	710	4944	5654	NapTol_Functional_sc_4	12684	+		Euryarchaeota (28890)	XRE family transcriptional regulator
+NapTol_Functional_sc_4_6	1052	5648	6700	NapTol_Functional_sc_4	12684	+	2.3.3.10	Euryarchaeota (28890)	Hydroxymethylglutaryl-CoA synthase (EC 2.3.3.10)
+NapTol_Functional_sc_4_7	1160	6697	7857	NapTol_Functional_sc_4	12684	+	2.3.1.16	Euryarchaeota (28890)	3-ketoacyl-CoA thiolase (EC 2.3.1.16)
+NapTol_Functional_sc_4_8	392	7860	8252	NapTol_Functional_sc_4	12684	+		Euryarchaeota (28890)	conserved protein associated acetyl-CoA C-acyltransferase
+NapTol_Functional_sc_4_9	932	8398	9330	NapTol_Functional_sc_4	12684	-	2.1.1.31	Methanomicrobiales (2191)	tRNA (Guanine37-N1) -methyltransferase (EC 2.1.1.31)
+NapTol_Functional_sc_4_10	1208	9366	10574	NapTol_Functional_sc_4	12684	+	1.1.1.34	Euryarchaeota (28890)	Hydroxymethylglutaryl-CoA reductase (EC 1.1.1.34)
+NapTol_Functional_sc_4_11	464	10633	11097	NapTol_Functional_sc_4	12684	-		Methanomicrobiales (2191)	Ribosomal-protein-S18p-alanine acetyltransferase (EC 2.3.1.-)
+NapTol_Functional_sc_4_12	1265	11183	12448	NapTol_Functional_sc_4	12684	+		Methanomicrobiales (2191)	hypothetical protein
+NapTol_Functional_sc_4_13	62	12620	12682	NapTol_Functional_sc_4	12684	+		root (1)	hypothetical protein
+NapTol_Functional_sc_5_0	1661	490	2151	NapTol_Functional_sc_5	36783	+	1.5.1.20	Bacteria (2)	5,10-methylenetetrahydrofolate reductase (EC 1.5.1.20)
+NapTol_Functional_sc_5_1	3740	2148	5888	NapTol_Functional_sc_5	36783	+	2.1.1.13	Proteobacteria (1224)	5-methyltetrahydrofolate--homocysteine methyltransferase (EC 2.1.1.13)
+NapTol_Functional_sc_5_2	800	5815	6615	NapTol_Functional_sc_5	36783	-		root (1)	hypothetical protein
+NapTol_Functional_sc_5_3	410	6619	7029	NapTol_Functional_sc_5	36783	-		Bacteria (2)	NIL domain-containing protein
+NapTol_Functional_sc_5_4	1154	7026	8180	NapTol_Functional_sc_5	36783	-		Monera	Ferredoxin oxidoreductase
+NapTol_Functional_sc_5_5	1271	8334	9605	NapTol_Functional_sc_5	36783	-		Bacteria (2)	Putative GTP-binding protien TM0445
+NapTol_Functional_sc_5_6	1349	9615	10964	NapTol_Functional_sc_5	36783	-	4.3.1.1	Spirochaetaceae (137)	Aspartate ammonia-lyase (EC 4.3.1.1)
+NapTol_Functional_sc_5_7	1037	10954	11991	NapTol_Functional_sc_5	36783	-		Bacteria (2)	Biotin synthase related enzymes
+NapTol_Functional_sc_5_8	1385	11988	13373	NapTol_Functional_sc_5	36783	-		Bacteria (2)	Thiazole biosynthesis protein ThiH
+NapTol_Functional_sc_5_9	287	13345	13632	NapTol_Functional_sc_5	36783	-		Clostridia (186801)	CopG family transcripitonal regulator
+NapTol_Functional_sc_5_10	689	13908	14597	NapTol_Functional_sc_5	36783	+		Bacteria (2)	Putative preQ0 transporter
+NapTol_Functional_sc_5_11	401	14597	14998	NapTol_Functional_sc_5	36783	+	1.7.1.13	Bacteria (2)	NADPH dependent preQ0 reductase (EC 1.7.1.13)
+NapTol_Functional_sc_5_12	1106	15283	16389	NapTol_Functional_sc_5	36783	+	3.5.4.26	Clostridia (186801)	Diaminohydroxyphosphoribosylaminopyrimidine deaminase (EC 3.5.4.26) / 5-amino-6-(5-phosphoribosylamino)uracil reductase 1.1.1.193)
+NapTol_Functional_sc_5_13	668	16374	17042	NapTol_Functional_sc_5	36783	+	2.5.1.9	Bacteria (2)	Riboflavin synthase eubacterial/eukaryotic (EC 2.5.1.9) [Haemophilus
+NapTol_Functional_sc_5_14	1241	17042	18283	NapTol_Functional_sc_5	36783	+	4.1.99.12	Firmicutes (1239)	3,4-dihydroxy-2-butanone 4-phosphate synthase (EC 4.1.99.12) / GTP cyclohydrolase II 3.5.4.25)
+NapTol_Functional_sc_5_15	467	18280	18747	NapTol_Functional_sc_5	36783	+	2.5.1.78	Bacteria (2)	6,7-dimethyl-8-ribityllumazine synthase (EC 2.5.1.78)
+NapTol_Functional_sc_5_16	1298	19069	20367	NapTol_Functional_sc_5	36783	+	4.1.99.17	Bacteria (2)	Hydroxymethylpyrimidine phosphate synthase ThiC (EC 4.1.99.17)
+NapTol_Functional_sc_5_17	818	20357	21175	NapTol_Functional_sc_5	36783	+	2.7.4.7	Bacteria (2)	Hydroxymethylpyrimidine phosphate kinase ThiD (EC 2.7.4.7)
+NapTol_Functional_sc_5_18	824	21172	21996	NapTol_Functional_sc_5	36783	+	2.7.1.50	Bacteria (2)	Hydroxyethylthiazole kinase (EC 2.7.1.50)
+NapTol_Functional_sc_5_19	626	21983	22609	NapTol_Functional_sc_5	36783	+	2.5.1.3	Treponema caldaria (215591)	Thiamin-phosphate pyrophosphorylase (EC 2.5.1.3)
+NapTol_Functional_sc_5_20	788	22615	23403	NapTol_Functional_sc_5	36783	+		Treponema caldaria (215591)	Haloacid dehalogenase domain-containing protein hydrolase
+NapTol_Functional_sc_5_21	1694	23679	25373	NapTol_Functional_sc_5	36783	+		Bacteria (2)	von Willebrand factor type A domain protein
+NapTol_Functional_sc_5_22	878	25404	26282	NapTol_Functional_sc_5	36783	-		root (1)	hypothetical protein
+NapTol_Functional_sc_5_23	2135	26299	28434	NapTol_Functional_sc_5	36783	-	1.17.4.2	Bacteria (2)	Ribonucleotide reductase class III (anaerobic), large subunit (EC 1.17.4.2)
+NapTol_Functional_sc_5_24	350	28843	29193	NapTol_Functional_sc_5	36783	-		root (1)	hypothetical protein
+NapTol_Functional_sc_5_25	1568	29211	30779	NapTol_Functional_sc_5	36783	-		Treponema caldaria (215591)	Polyferredoxin NapH (periplasmic nitrate reductase)
+NapTol_Functional_sc_5_26	1358	30959	32317	NapTol_Functional_sc_5	36783	-	3.2.1.22	Bacteria (2)	Alpha-galactosidase (EC 3.2.1.22)
+NapTol_Functional_sc_5_27	989	32392	33381	NapTol_Functional_sc_5	36783	-		Treponema caldaria (215591)	LacI family transcriptional regulator
+NapTol_Functional_sc_5_28	2429	33583	36012	NapTol_Functional_sc_5	36783	+		root (1)	hypothetical protein
+NapTol_Functional_sc_5_29	686	36024	36710	NapTol_Functional_sc_5	36783	+		root (1)	hypothetical protein
+NapTol_Functional_sc_6_0	512	294	806	NapTol_Functional_sc_6	7469	+		Bacteria (2)	hypothetical protein
+NapTol_Functional_sc_6_1	716	803	1519	NapTol_Functional_sc_6	7469	+		Proteobacteria (1224)	hypothetical protein
+NapTol_Functional_sc_6_2	632	1566	2198	NapTol_Functional_sc_6	7469	+		root (1)	hypothetical protein
+NapTol_Functional_sc_6_3	1760	2516	4276	NapTol_Functional_sc_6	7469	+		root (1)	hypothetical protein
+NapTol_Functional_sc_6_4	104	4300	4404	NapTol_Functional_sc_6	7469	-		root (1)	hypothetical protein
+NapTol_Functional_sc_6_5	398	4513	4911	NapTol_Functional_sc_6	7469	+		root (1)	hypothetical protein
+NapTol_Functional_sc_6_6	614	5038	5652	NapTol_Functional_sc_6	7469	-		root (1)	hypothetical protein
+NapTol_Functional_sc_6_7	485	5649	6134	NapTol_Functional_sc_6	7469	-		root (1)	hypothetical protein
+NapTol_Functional_sc_6_8	203	6420	6623	NapTol_Functional_sc_6	7469	-		root (1)	hypothetical protein
+NapTol_Functional_sc_6_9	254	7214	7468	NapTol_Functional_sc_6	7469	+		root (1)	Hexokinase
+NapTol_Functional_sc_7_0	635	3	638	NapTol_Functional_sc_7	14242	+		Syntrophus aciditrophicus (316277)	cytoplasmic protein
+NapTol_Functional_sc_7_1	1532	638	2170	NapTol_Functional_sc_7	14242	+		Syntrophus aciditrophicus (316277)	cytoplasmic protein
+NapTol_Functional_sc_7_2	1055	2343	3398	NapTol_Functional_sc_7	14242	+		root (1)	hypothetical protein
+NapTol_Functional_sc_7_3	1406	3723	5129	NapTol_Functional_sc_7	14242	-	6.1.1.17	Proteobacteria (1224)	Glutamyl-tRNA synthetase (EC 6.1.1.17) ## unambiguous
+NapTol_Functional_sc_7_4	542	5297	5839	NapTol_Functional_sc_7	14242	+		root (1)	hypothetical protein
+NapTol_Functional_sc_7_5	185	5861	6046	NapTol_Functional_sc_7	14242	+		Bacteria (2)	LSU ribosomal protein L32p @ L32p, zinc-dependent
+NapTol_Functional_sc_7_6	236	6158	6394	NapTol_Functional_sc_7	14242	+		Bacteria (2)	Acyl carrier protein
+NapTol_Functional_sc_7_7	1241	6418	7659	NapTol_Functional_sc_7	14242	+	2.3.1.41	Bacteria (2)	3-oxoacyl- synthase, KASII (EC 2.3.1.41)
+NapTol_Functional_sc_7_8	1250	7684	8934	NapTol_Functional_sc_7	14242	+	2.1.2.1	Bacteria (2)	Serine hydroxymethyltransferase (EC 2.1.2.1)
+NapTol_Functional_sc_7_9	494	8989	9483	NapTol_Functional_sc_7	14242	+	3.5.4.12	Bacteria (2)	dCMP deaminase (EC 3.5.4.12) Late competence protein ComEB
+NapTol_Functional_sc_7_10	461	9505	9966	NapTol_Functional_sc_7	14242	+		Bacteria (2)	Ribonucleotide reductase transcriptional regulator NrdR
+NapTol_Functional_sc_7_11	635	9969	10604	NapTol_Functional_sc_7	14242	+	2.5.1.9	Bacteria (2)	Riboflavin synthase eubacterial/eukaryotic (EC 2.5.1.9) [Haemophilus
+NapTol_Functional_sc_7_12	1202	10617	11819	NapTol_Functional_sc_7	14242	+	4.1.99.12	Bacteria (2)	3,4-dihydroxy-2-butanone 4-phosphate synthase (EC 4.1.99.12) / GTP cyclohydrolase II 3.5.4.25)
+NapTol_Functional_sc_7_13	470	11846	12316	NapTol_Functional_sc_7	14242	+	2.5.1.78	Bacteria (2)	6,7-dimethyl-8-ribityllumazine synthase (EC 2.5.1.78)
+NapTol_Functional_sc_7_14	455	12471	12926	NapTol_Functional_sc_7	14242	+		Syntrophobacterales (213462)	Transcription termination protein NusB
+NapTol_Functional_sc_7_15	572	12880	13452	NapTol_Functional_sc_7	14242	+		root (1)	hypothetical protein
+NapTol_Functional_sc_7_16	590	13504	14094	NapTol_Functional_sc_7	14242	-		Monera	putative iron-sulfur flavoprotein
+NapTol_Functional_sc_0_0	152	1	153	NapTol_Functional_sc_0	36698	-		root (1)	hypothetical protein
+NapTol_Functional_sc_0_1	1628	295	1923	NapTol_Functional_sc_0	36698	-		Proteobacteria (1224)	Signal transduction histidine kinase CheA (EC 2.7.3.-)
+NapTol_Functional_sc_0_2	440	1973	2413	NapTol_Functional_sc_0	36698	-		Desulfovibrio (872)	Signal transduction histidine kinase CheA (EC 2.7.3.-)
+NapTol_Functional_sc_0_3	365	2438	2803	NapTol_Functional_sc_0	36698	-		Proteobacteria (1224)	Chemotaxis regulator - transmits chemoreceptor signals to flagelllar motor components CheY
+NapTol_Functional_sc_0_4	359	2805	3164	NapTol_Functional_sc_0	36698	-		Geobacter lovleyi (313985)	sulfate transporter/antisigma-factor antagonist STAS
+NapTol_Functional_sc_0_5	1796	3174	4970	NapTol_Functional_sc_0	36698	-		Desulfuromonadales (69541)	methyl accepting chemotaxis protein, putative
+NapTol_Functional_sc_0_6	398	5001	5399	NapTol_Functional_sc_0	36698	-		Bacteria (2)	response regulator receiver protein
+NapTol_Functional_sc_0_7	467	5446	5913	NapTol_Functional_sc_0	36698	-		Desulfuromonadales (69541)	Cytochrome c'
+NapTol_Functional_sc_0_8	470	6136	6606	NapTol_Functional_sc_0	36698	+	3.5.4.12	Bacteria (2)	dCMP deaminase (EC 3.5.4.12) Late competence protein ComEB
+NapTol_Functional_sc_0_9	452	6603	7055	NapTol_Functional_sc_0	36698	+		Bacteria (2)	Ribonucleotide reductase transcriptional regulator NrdR
+NapTol_Functional_sc_0_10	1103	7077	8180	NapTol_Functional_sc_0	36698	+	3.5.4.26	Bacteria (2)	Diaminohydroxyphosphoribosylaminopyrimidine deaminase (EC 3.5.4.26) / 5-amino-6-(5-phosphoribosylamino)uracil reductase 1.1.1.193)
+NapTol_Functional_sc_0_11	641	8165	8806	NapTol_Functional_sc_0	36698	+	2.5.1.9	Bacteria (2)	Riboflavin synthase eubacterial/eukaryotic (EC 2.5.1.9)
+NapTol_Functional_sc_0_12	1205	8824	10029	NapTol_Functional_sc_0	36698	+	4.1.99.12	Bacteria (2)	3,4-dihydroxy-2-butanone 4-phosphate synthase (EC 4.1.99.12) / GTP cyclohydrolase II 3.5.4.25)
+NapTol_Functional_sc_0_13	542	10029	10571	NapTol_Functional_sc_0	36698	+		Bacteria (2)	FIG053235: Diacylglucosamine hydrolase like
+NapTol_Functional_sc_0_14	167	10655	10822	NapTol_Functional_sc_0	36698	-		root (1)	hypothetical protein
+NapTol_Functional_sc_0_15	1265	11072	12337	NapTol_Functional_sc_0	36698	+	2.7.2.1	Clostridia (186801)	Acetate kinase (EC 2.7.2.1)
+NapTol_Functional_sc_0_16	800	12420	13220	NapTol_Functional_sc_0	36698	-		Desulfuromonadales (69541)	TPR domain protein, putative component TonB system
+NapTol_Functional_sc_0_17	2342	13354	15696	NapTol_Functional_sc_0	36698	+		Desulfuromonadales (69541)	Phosphoenolpyruvate-protein phosphotransferase, nitrogen regulation associated
+NapTol_Functional_sc_0_18	1313	15722	17035	NapTol_Functional_sc_0	36698	-		Desulfuromonadales (69541)	heat shock protein DnaJ domain-containing
+NapTol_Functional_sc_0_19	701	17100	17801	NapTol_Functional_sc_0	36698	-		Desulfuromonadales (69541)	DnaA regulatory inactivator Hda (Homologous to DnaA)
+NapTol_Functional_sc_0_20	1016	17802	18818	NapTol_Functional_sc_0	36698	-		Bacteria (2)	Holliday junction DNA helicase RuvB
+NapTol_Functional_sc_0_21	821	18930	19751	NapTol_Functional_sc_0	36698	+	2.5.1.55	Bacteria (2)	2-Keto-3-deoxy-D-manno-octulosonate-8-phosphate synthase (EC 2.5.1.55) ## KdsA
+NapTol_Functional_sc_0_22	968	19748	20716	NapTol_Functional_sc_0	36698	+	5.3.1.13	Bacteria (2)	Arabinose 5-phosphate isomerase (EC 5.3.1.13)
+NapTol_Functional_sc_0_23	518	20737	21255	NapTol_Functional_sc_0	36698	+	3.1.3.45	Proteobacteria (1224)	3-deoxy-D-manno-octulosonate 8-phosphate phosphatase (EC 3.1.3.45)
+NapTol_Functional_sc_0_24	581	21337	21918	NapTol_Functional_sc_0	36698	+		Geobacter lovleyi (313985)	hypothetical protein
+NapTol_Functional_sc_0_25	539	21905	22444	NapTol_Functional_sc_0	36698	+		Geobacter (28231)	sugar ABC transporter substrate-binding protein
+NapTol_Functional_sc_0_26	746	22425	23171	NapTol_Functional_sc_0	36698	+		Gammaproteobacteria (1236)	Lipopolysaccharide ABC transporter, ATP-binding protein LptB
+NapTol_Functional_sc_0_27	1448	23202	24650	NapTol_Functional_sc_0	36698	+		Bacteria (2)	RNA polymerase sigma-54 factor RpoN
+NapTol_Functional_sc_0_28	545	24696	25241	NapTol_Functional_sc_0	36698	+		Bacteria (2)	Ribosomal subunit interface protein
+NapTol_Functional_sc_0_29	959	25290	26249	NapTol_Functional_sc_0	36698	+		Bacteria (2)	HPr kinase/phosphorylase (EC 2.7.1.-) 2.7.4.-)
+NapTol_Functional_sc_0_30	857	26252	27109	NapTol_Functional_sc_0	36698	+		Bacteria (2)	Hypothetical ATP-binding protein UPF0042, contains P-loop
+NapTol_Functional_sc_0_31	395	27116	27511	NapTol_Functional_sc_0	36698	+	2.7.1.69	Desulfuromonadales (69541)	PTS system, mannose-specific IIA component (EC 2.7.1.69)
+NapTol_Functional_sc_0_32	266	27522	27788	NapTol_Functional_sc_0	36698	+		Betaproteobacteria (28216)	sugar transport PTS system phosphocarrier protein HPR
+NapTol_Functional_sc_0_33	776	27791	28567	NapTol_Functional_sc_0	36698	+	3.4.23.43	Proteobacteria (1224)	Leader peptidase (Prepilin peptidase) (EC 3.4.23.43) / N-methyltransferase 2.1.1.-)
+NapTol_Functional_sc_0_34	1517	28564	30081	NapTol_Functional_sc_0	36698	+		Geobacter (28231)	Two-component sensor PilS
+NapTol_Functional_sc_0_35	1352	30078	31430	NapTol_Functional_sc_0	36698	+		Bacteria (2)	Acetoacetate metabolism regulatory protein AtoC
+NapTol_Functional_sc_0_36	1058	31431	32489	NapTol_Functional_sc_0	36698	-		Bacteria (2)	Putative DNA-binding protein cluster Type I restriction-modification system
+NapTol_Functional_sc_0_37	569	32707	33276	NapTol_Functional_sc_0	36698	+		root (1)	hypothetical protein
+NapTol_Functional_sc_0_38	803	33465	34268	NapTol_Functional_sc_0	36698	+		Desulfuromonadales (69541)	Thiol:disulfide interchange protein DsbC
+NapTol_Functional_sc_0_39	305	34316	34621	NapTol_Functional_sc_0	36698	+		root (1)	hypothetical protein
+NapTol_Functional_sc_0_40	2078	34618	36696	NapTol_Functional_sc_0	36698	+		root (1)	hypothetical protein
+NapTol_Functional_sc_1_0	377	145	522	NapTol_Functional_sc_1	31748	+	2.1.1.72	Bacteria (2)	Type I restriction-modification system, DNA-methyltransferase subunit M (EC 2.1.1.72)
+NapTol_Functional_sc_1_1	1202	519	1721	NapTol_Functional_sc_1	31748	+		root (1)	hypothetical protein
+NapTol_Functional_sc_1_2	485	1731	2216	NapTol_Functional_sc_1	31748	+		Bacteria (2)	putative uncharacterized protein
+NapTol_Functional_sc_1_3	2393	2219	4612	NapTol_Functional_sc_1	31748	+	3.1.21.3	Bacteria (2)	Type I restriction-modification system, restriction subunit R (EC 3.1.21.3)
+NapTol_Functional_sc_1_4	665	5186	5851	NapTol_Functional_sc_1	31748	+		root (1)	hypothetical protein
+NapTol_Functional_sc_1_5	668	6183	6851	NapTol_Functional_sc_1	31748	+		root (1)	hypothetical protein
+NapTol_Functional_sc_1_6	707	7153	7860	NapTol_Functional_sc_1	31748	+		root (1)	hypothetical protein
+NapTol_Functional_sc_1_7	803	8279	9082	NapTol_Functional_sc_1	31748	-		root (1)	hypothetical protein
+NapTol_Functional_sc_1_8	1256	9079	10335	NapTol_Functional_sc_1	31748	-		root (1)	hypothetical protein
+NapTol_Functional_sc_1_9	707	10698	11405	NapTol_Functional_sc_1	31748	-		root (1)	hypothetical protein
+NapTol_Functional_sc_1_10	716	12341	13057	NapTol_Functional_sc_1	31748	-		Proteobacteria (1224)	hypothetical protein
+NapTol_Functional_sc_1_11	512	13054	13566	NapTol_Functional_sc_1	31748	-		Bacteria (2)	hypothetical protein
+NapTol_Functional_sc_1_12	1406	14250	15656	NapTol_Functional_sc_1	31748	-	6.1.1.17	Proteobacteria (1224)	Glutamyl-tRNA synthetase (EC 6.1.1.17) ## unambiguous
+NapTol_Functional_sc_1_13	542	15825	16367	NapTol_Functional_sc_1	31748	+		root (1)	hypothetical protein
+NapTol_Functional_sc_1_14	185	16389	16574	NapTol_Functional_sc_1	31748	+		Bacteria (2)	LSU ribosomal protein L32p @ L32p, zinc-dependent
+NapTol_Functional_sc_1_15	236	16686	16922	NapTol_Functional_sc_1	31748	+		Bacteria (2)	Acyl carrier protein
+NapTol_Functional_sc_1_16	1241	16946	18187	NapTol_Functional_sc_1	31748	+	2.3.1.41	Bacteria (2)	3-oxoacyl- synthase, KASII (EC 2.3.1.41)
+NapTol_Functional_sc_1_17	1250	18212	19462	NapTol_Functional_sc_1	31748	+	2.1.2.1	Bacteria (2)	Serine hydroxymethyltransferase (EC 2.1.2.1)
+NapTol_Functional_sc_1_18	494	19517	20011	NapTol_Functional_sc_1	31748	+	3.5.4.12	Bacteria (2)	dCMP deaminase (EC 3.5.4.12) Late competence protein ComEB
+NapTol_Functional_sc_1_19	461	20033	20494	NapTol_Functional_sc_1	31748	+		Bacteria (2)	Ribonucleotide reductase transcriptional regulator NrdR
+NapTol_Functional_sc_1_20	635	20497	21132	NapTol_Functional_sc_1	31748	+	2.5.1.9	Bacteria (2)	Riboflavin synthase eubacterial/eukaryotic (EC 2.5.1.9) [Haemophilus
+NapTol_Functional_sc_1_21	1202	21145	22347	NapTol_Functional_sc_1	31748	+	4.1.99.12	Bacteria (2)	3,4-dihydroxy-2-butanone 4-phosphate synthase (EC 4.1.99.12) / GTP cyclohydrolase II 3.5.4.25)
+NapTol_Functional_sc_1_22	470	22374	22844	NapTol_Functional_sc_1	31748	+	2.5.1.78	Bacteria (2)	6,7-dimethyl-8-ribityllumazine synthase (EC 2.5.1.78)
+NapTol_Functional_sc_1_23	455	22999	23454	NapTol_Functional_sc_1	31748	+		Syntrophobacterales (213462)	Transcription termination protein NusB
+NapTol_Functional_sc_1_24	572	23408	23980	NapTol_Functional_sc_1	31748	+		root (1)	hypothetical protein
+NapTol_Functional_sc_1_25	596	24020	24616	NapTol_Functional_sc_1	31748	-		Monera	putative iron-sulfur flavoprotein
+NapTol_Functional_sc_1_26	266	24712	24978	NapTol_Functional_sc_1	31748	-		root (1)	hypothetical protein
+NapTol_Functional_sc_1_27	680	25200	25880	NapTol_Functional_sc_1	31748	-		delta proteobacterium NaphS2 (88274)	hypothetical protein
+NapTol_Functional_sc_1_28	1232	25928	27160	NapTol_Functional_sc_1	31748	+		Bacteria (2)	Mobile element protein
+NapTol_Functional_sc_1_29	299	27157	27456	NapTol_Functional_sc_1	31748	-		delta proteobacterium NaphS2 (88274)	hypothetical protein
+NapTol_Functional_sc_1_30	1415	27649	29064	NapTol_Functional_sc_1	31748	-		root (1)	hypothetical protein
+NapTol_Functional_sc_1_31	1313	29352	30665	NapTol_Functional_sc_1	31748	-		root (1)	hypothetical protein
+NapTol_Functional_sc_1_32	830	30917	31747	NapTol_Functional_sc_1	31748	+		root (1)	hypothetical protein
+NapTol_Functional_sc_2_0	371	79	450	NapTol_Functional_sc_2	14599	-		Methanoculleus (45989)	Sensory transduction histidine kinase
+NapTol_Functional_sc_2_1	1157	1338	2495	NapTol_Functional_sc_2	14599	-		Methanoculleus (45989)	Sensory transduction histidine kinase
+NapTol_Functional_sc_2_2	575	2765	3340	NapTol_Functional_sc_2	14599	+		Methanoculleus (45989)	Cytosolic Fe-S cluster assembling factor NBP35
+NapTol_Functional_sc_2_3	869	3391	4260	NapTol_Functional_sc_2	14599	-	2.6.1.42	Monera	Branched-chain amino acid aminotransferase (EC 2.6.1.42)
+NapTol_Functional_sc_2_4	1367	4367	5734	NapTol_Functional_sc_2	14599	-		Methanomicrobia (224756)	Cobyrinic acid A,C-diamide synthase
+NapTol_Functional_sc_2_5	1064	5731	6795	NapTol_Functional_sc_2	14599	-		Euryarchaeota (28890)	Nitrogenase vanadium-cofactor synthesis protein VnfN
+NapTol_Functional_sc_2_6	1154	6800	7954	NapTol_Functional_sc_2	14599	-	6.3.2.9	Methanomicrobiales (2191)	UDP-N-acetylmuramoylalanine--D-glutamate ligase (EC 6.3.2.9)
+NapTol_Functional_sc_2_7	407	7960	8367	NapTol_Functional_sc_2	14599	-	4.99.1.3	Methanomicrobia (224756)	Sirohydrochlorin cobaltochelatase (EC 4.99.1.3)
+NapTol_Functional_sc_2_8	215	8586	8801	NapTol_Functional_sc_2	14599	+		Methanoculleus marisnigri (2198)	Conserved protein
+NapTol_Functional_sc_2_9	1064	8873	9937	NapTol_Functional_sc_2	14599	+		Methanomicrobiales (2191)	tRNA dihydrouridine synthase B like
+NapTol_Functional_sc_2_10	782	9948	10730	NapTol_Functional_sc_2	14599	+		Methanomicrobiales (2191)	Triphosphoribosyl-dephospho-CoA synthetase
+NapTol_Functional_sc_2_11	569	10718	11287	NapTol_Functional_sc_2	14599	+		Methanomicrobiales (2191)	DUF447 family protein
+NapTol_Functional_sc_2_12	440	11503	11943	NapTol_Functional_sc_2	14599	+		Methanoculleus (45989)	beta-Ig-H3/fasciclin
+NapTol_Functional_sc_2_13	434	12149	12583	NapTol_Functional_sc_2	14599	+		Methanoculleus marisnigri (2198)	Secreted surface protein containing fasciclin-like repeats
+NapTol_Functional_sc_2_14	425	12664	13089	NapTol_Functional_sc_2	14599	+		Methanoculleus (45989)	Secreted surface protein containing fasciclin-like repeats
+NapTol_Functional_sc_2_15	1424	13173	14597	NapTol_Functional_sc_2	14599	-		Methanomicrobia (224756)	transposase
+NapTol_Functional_sc_3_0	911	183	1094	NapTol_Functional_sc_3	10563	-		Methanomicrobiaceae (2194)	Phosphoesterase (EC 3.1.-.-)
+NapTol_Functional_sc_3_1	653	1153	1806	NapTol_Functional_sc_3	10563	-		Methanomicrobiaceae (2194)	membrane protein
+NapTol_Functional_sc_3_2	629	2346	2975	NapTol_Functional_sc_3	10563	+		Bacteria (2)	probable transposase
+NapTol_Functional_sc_3_3	260	3318	3578	NapTol_Functional_sc_3	10563	+		Archaea (2157)	Translation initiation factor 1A
+NapTol_Functional_sc_3_4	785	3660	4445	NapTol_Functional_sc_3	10563	-		Methanomicrobiaceae (2194)	unknown
+NapTol_Functional_sc_3_5	452	4442	4894	NapTol_Functional_sc_3	10563	-		Methanomicrobiales (2191)	hypothetical protein
+NapTol_Functional_sc_3_6	365	4875	5240	NapTol_Functional_sc_3	10563	-		Methanomicrobiales (2191)	hypothetical protein
+NapTol_Functional_sc_3_7	509	5228	5737	NapTol_Functional_sc_3	10563	-		Methanomicrobiales (2191)	hypothetical protein
+NapTol_Functional_sc_3_8	1031	5731	6762	NapTol_Functional_sc_3	10563	-		Methanoculleus (45989)	hypothetical protein
+NapTol_Functional_sc_3_9	563	6786	7349	NapTol_Functional_sc_3	10563	-		Methanoculleus (45989)	hypothetical protein
+NapTol_Functional_sc_3_10	641	7598	8239	NapTol_Functional_sc_3	10563	+		Monera	Formylmethanofuran dehydrogenase subunit E
+NapTol_Functional_sc_3_11	875	8253	9128	NapTol_Functional_sc_3	10563	-	2.4.2.17	Monera	ATP phosphoribosyltransferase (EC 2.4.2.17)
+NapTol_Functional_sc_3_12	1436	9125	10561	NapTol_Functional_sc_3	10563	-		Methanomicrobia (224756)	transposase
